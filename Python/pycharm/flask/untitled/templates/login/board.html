@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block explain_contents %}
+<form action="write.php" method="post">
+​
+        <tr>
+          <th>아이디</th>
+          <td><input type="text" name="userId" placeholder="아이디를 입력하세요"></td>
+        </tr>
+        <tr>
+          <th>비밀번호</th>
+          <td><input type="password" name="userPw" placeholder="비밀번호를 입력하세요"></td>
+        </tr>
+        <tr>
+          <th>제목</th>
+          <td><input type="text" name="title" placeholder="제목을 입력하세요"></td>
+        </tr>
+        <tr>
+          <th>내용</th>
+          <td><textarea cols="40" rows="10" name="content" placeholder="내용을 입력하세요"></textarea></td>
+        </tr>
+    </table>
+​
+        <button class="btnbtn -default" input type="submit"> WRITE< /button>
+        <button class="btn btn-default"> <a href="list.php">BOARD LIST</a></button>
+​
+        </form>
+​{% endblock explain_contents %}

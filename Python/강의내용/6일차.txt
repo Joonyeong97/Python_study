@@ -1,0 +1,41 @@
+관계형 Database
+중복방지 -> 정규화
+file로 저장되어있던 단점 극복
+중복방지맟 공유하기위해
+
+입력 -> 처리 -> 출력
+입력 : table
+처리 : update , insert, delete
+출력 : select
+
+DDL
+DML
+DCL
+TCL
+
+DDL ( Database, Table )
+Create, Alter, drop
+DML
+Update set, insert into, delete from
+DCL
+Grant,revoke
+TCL
+Commit
+Savepoint
+rollback
+
+연산자 : 산술연산자, 관계연산자, 논리연산자
+내장함수 (수학함수(abs,round,sin,cos,tan,degree,radian), 문자열함수(공백제거:trim), 
+시스템함수: found count,user,version
+집계함수:sum,avg,where,groupby,having,orderby, limit
+
+trigger
+event : 일정한시간대에 이벤트
+view : 실제로 table이 없음에도 table로 취급을함.
+stored procedure : 원하는 데이터를 클라이언트로
+connect: ip,port,id,pass
+SQL : query(질의)
+
+select 문은 가져다가 쓰는거라 상관이없지만
+update, insert, delete 문은 원시데이터에 문제가 생길수도 있음.
+Record  = fatch1, fatchmany, fatchall 

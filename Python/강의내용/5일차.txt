@@ -1,0 +1,18 @@
+VM = Virtual Machine
+Virtual box
+
+Linux = 화일 디렉토리 관리, 사용자관리.
+Server가 service를 제공(web server, 		db server, 	ftp)
+web server =  html5	
+db server = 중복제거,공유(oracle),mssql,mariadb,mysql	
+ftp = 
+TCP IP = 
+TCP 65536개 포트
+UDP 65536개 포트
+mariadb = 3306port
+mysql = 80
+
+CentoOS = server급
+mariadb ( 중복제거, 공유 )
+
+프로젝트 설계할때 데이터 베이스부터 설계함!

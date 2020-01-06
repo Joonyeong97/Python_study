@@ -1,0 +1,843 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "t 100.0\n"
+     ]
+    }
+   ],
+   "source": [
+    "width = 10\n",
+    "height = 20\n",
+    "area = 10*20/2\n",
+    "print(\"t\", area)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "10 20 100.0\n"
+     ]
+    }
+   ],
+   "source": [
+    "class Treiangle:\n",
+    "    def setData(self, width, height):\n",
+    "        self.wi=width\n",
+    "        self.he=height\n",
+    "    def area(self):\n",
+    "        return self.wi*self.he/2\n",
+    "tri = Treiangle()\n",
+    "tri.setData(10,20)\n",
+    "print(tri.wi,tri.he,tri.area())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'클래스의 예'"
+      ]
+     },
+     "execution_count": 9,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# 클래스 변수, 멤버변수, 지역변수\n",
+    "class Myclass(object):\n",
+    "    \"\"\"클래스의 예\"\"\"\n",
+    "    i = 12345\n",
+    "    def __init__(self):\n",
+    "        self.i = 54321\n",
+    "        num = 2\n",
+    "    def f(self):\n",
+    "        return self.i\n",
+    "Myclass.__doc__"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "12345\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(Myclass.i)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "54321\n"
+     ]
+    },
+    {
+     "data": {
+      "text/plain": [
+       "54321"
+      ]
+     },
+     "execution_count": 14,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "myclass=Myclass() # self.i에 대한 메모리확보\n",
+    "print(myclass.i) # 멤버변수호출\n",
+    "myclass.f()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "54321\n",
+      "12345\n",
+      "54321\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(myclass.i)\n",
+    "print(Myclass.i)\n",
+    "print(Myclass().i)# 참조가 없기 떄문에 사용과 동시에\n",
+    "# 메모리에서 사라짐"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "생성 Mon Dec 30 21:03:09 2019\n",
+      "사망 Mon Dec 30 21:03:09 2019\n"
+     ]
+    }
+   ],
+   "source": [
+    "from time import time,ctime,sleep \n",
+    "class Life:\n",
+    "    def __init__(self):\n",
+    "        self.birth = ctime()\n",
+    "        print('생성', self.birth)\n",
+    "    def __del__(self):\n",
+    "        print('사망', ctime())\n",
+    "    def test(self):\n",
+    "        #my Life = Life()\n",
+    "        print('Sleep for 3sec')\n",
+    "        sleep(3)\n",
+    "li = Life()\n",
+    "li.test\n",
+    "del li"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 25,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "class Emp2:\n",
+    "    empCo = 0\n",
+    "    def __init__(self,name,sal):\n",
+    "        self.name = name\n",
+    "        self.sal = sal\n",
+    "        Emp2.empCo += 1\n",
+    "    def disco(self):\n",
+    "        print(\"직원count %d\" % Emp2.empCo)\n",
+    "    def disEmp(self):\n",
+    "        print(\"이름:\", self.name , \"급여: \",self.sal)\n",
+    "    def __call__(self,*pargs, **kargs):\n",
+    "        print(\"Called:\", pargs, kargs)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 56,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "직원count 36\n",
+      "None\n",
+      "직원count 37\n",
+      "None\n",
+      "이름: ddd 급여:  600\n",
+      "None\n",
+      "이름: qqq 급여:  800\n",
+      "None\n",
+      "Called: ('QQQ', 500, 100) {'c': 100}\n",
+      "None\n"
+     ]
+    }
+   ],
+   "source": [
+    "emp = Emp2(\"ddd\",600)\n",
+    "print(emp.disco())\n",
+    "emp2 = (Emp2(\"qqq\",800))\n",
+    "print(emp2.disco())\n",
+    "print(emp.disEmp())\n",
+    "print(emp2.disEmp())\n",
+    "print(emp(\"QQQ\",500,100,c=100))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 58,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# 실시간으로 변수를 추가가능\n",
+    "emp.age = 9\n",
+    "emp2.age = 12"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 60,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "9\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(emp.age)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 63,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "{'name': 'ddd', 'sal': 600, 'age': 9}\n",
+      "['__call__', '__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'age', 'disEmp', 'disco', 'empCo', 'name', 'sal']\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(emp.__dict__)\n",
+    "print(dir(emp))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# 문제\n",
+    "- 이름과 나이를 저장하는 Student class를 생성하시오\n",
+    "- 이름과 나이를 출력하는 pring 함수를 클래스내에 정의하시오"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 65,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "class Student:\n",
+    "    def __init__(self,name,age):\n",
+    "        \"\"\"학생관리\"\"\"\n",
+    "        self.name = name\n",
+    "        self.age = age\n",
+    "    def pring(self):\n",
+    "        print(\"이름 : \", self.name, \", 나이 : \", self.age)\n",
+    "    def __repr__(self):\n",
+    "        return \"나의 이름은\" + self.name"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 67,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "이름 :  asd , 나이 :  24\n",
+      "나의 이름은asd\n"
+     ]
+    }
+   ],
+   "source": [
+    "hhh = Student(\"asd\", 24)\n",
+    "hhh.pring()\n",
+    "print(hhh)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 69,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "나의 이름은asd\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Student\n",
+    "g = hhh.__class__(\"asd\",24)\n",
+    "print(g)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 71,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import math\n",
+    "class Point:\n",
+    "    def __init__(self,x,y):\n",
+    "        self.x = x\n",
+    "        self.y = y\n",
+    "    def __srt__(self):\n",
+    "        return \"좌표는 (%d,%d)\" % (self.x,self.y)\n",
+    "    def dist(self,other):\n",
+    "        distance = math.sqrt((self.x-other.x)**2+(self.y-other.y)**2)\n",
+    "        return distance\n",
+    "    def collision(self,other):\n",
+    "        return self.dist(other)<3"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 72,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<__main__.Point object at 0x000001C9C5655588>\n",
+      "<__main__.Point object at 0x000001C9C5655788>\n"
+     ]
+    },
+    {
+     "data": {
+      "text/plain": [
+       "4.123105625617661"
+      ]
+     },
+     "execution_count": 72,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "po1 = Point(6,4)\n",
+    "po2 = Point(7,8)\n",
+    "print(po1)\n",
+    "print(po2)\n",
+    "po1.dist(po2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 74,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "두점 사이의 거리는 =  4.123105625617661\n",
+      "노 충돌\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"두점 사이의 거리는 = \", po1.dist(po2))\n",
+    "if po1.collision(po2):\n",
+    "    print(\"충돌\")\n",
+    "else:\n",
+    "    print(\"노 충돌\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# 문제: point 클래스를 이용하여 Circle 클래스를 정의하시오\n",
+    "- 원 : 중심점하고 반지름\n",
+    "- 원과 원이 충돌하는지를 확인하는 함수를 작성하시오.\n",
+    "- 서로 반지름이 차이가  중심점하고의 거리에 들어가면 충돌임.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 76,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import math\n",
+    "jop = Point(3,4)\n",
+    "class Circle:\n",
+    "    def __init__(self,jop,ban):\n",
+    "        self.jop = jop\n",
+    "        self.ban = ban\n",
+    "    def ist(self):\n",
+    "        return \"원의 중심은\" + str(self.jop) + str(self.ban)\n",
+    "    def coll(self,other):\n",
+    "        if self.jop.dist(other.jop)<self.ban + other.ban:\n",
+    "            result = \"충돌\"\n",
+    "        else:\n",
+    "            return \"노 충돌\"\n",
+    "        return result\n",
+    "    "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 78,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<__main__.Circle object at 0x000001C9C56894C8>\n",
+      "<__main__.Circle object at 0x000001C9C5689488>\n"
+     ]
+    }
+   ],
+   "source": [
+    "cir = Circle(po1,1)\n",
+    "cir2 = Circle(po2,50)\n",
+    "print(cir)\n",
+    "print(cir2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 81,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "충돌\n"
+     ]
+    },
+    {
+     "data": {
+      "text/plain": [
+       "'충돌'"
+      ]
+     },
+     "execution_count": 81,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "print(cir.coll(cir2))\n",
+    "Circle.coll(cir,cir2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 89,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "class Rectangle:\n",
+    "    def __init__(self,p1,p2):\n",
+    "        self.p1 = p1\n",
+    "        self.p2 = p2\n",
+    "    def myj(self):\n",
+    "        return avs((self.p1.x - self.p2.x)) * abs((self.p1.y - self.p2.y))\n",
+    "    def doole(self):\n",
+    "        return math.sqrt((p1.x-p2.x)**2+(p1.y-p2.y)**2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 86,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "<__main__.Rectangle at 0x1c9c5655888>"
+      ]
+     },
+     "execution_count": 86,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "Rectangle(po1,po2)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# vector = 길이 = 크기 + 방향\n",
+    "- 내적 유사도 = cos 유사도 = dot연산 , 요소끼리 곱하고 다 더해주면됨.\n",
+    "- A'B\n",
+    "- A = [10,20,30] , B = [20,30,40]\n",
+    "- A'B = [10 * 20 + 20 * 30 + 30 * 40]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 88,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "xx = Point(7,3)\n",
+    "xx1 = Point(4,9)\n",
+    "re = Rectangle(xx,xx1)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 90,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "class Rectangle2:\n",
+    "    def __init__(self, po1,po2): # po1 = Point() 매핑\n",
+    "        self.po1 = po1\n",
+    "        self.po2 = po2\n",
+    "    def area(self):\n",
+    "        result = abs((po1.x - po2.x) * (po1.y - po2.y))\n",
+    "        return result\n",
+    "    def perimeter(self):\n",
+    "        result = abs(po1.x - po2.x)*2 + abs(po1.y - po2.y)*2\n",
+    "        return result\n",
+    "    def diagonal_dist(self):\n",
+    "        result = math.sqrt((po1.x-po2.x)**2+(po1.y - po2.y)**2)\n",
+    "        return result"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 92,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<bound method Rectangle.myj of <__main__.Rectangle object at 0x000001C9C56581C8>>\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(re.myj)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# 문제 : Vector class를 작성하시오\n",
+    "- x,y의 2차원 벡터 구현\n",
+    "- 벡터의 연산 (+,-,*,/) : 요소별로 계산하면됨.\n",
+    "- dot 함수를 구현하시오 : 백터의 요소별로 곱하고 모두 더해주면 내적 유사도\n",
+    "- cos 값으로 변환하는 함수를 구현하시오\n",
+    "        cos theta = acos(A내적B/|A||B|)\n",
+    "        |A| = math.sqrt(x^2 + y^2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 100,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import math\n",
+    "class Vector:\n",
+    "    def __init__(self,x,y,z):\n",
+    "        self.x = x\n",
+    "        self.y = y\n",
+    "        self.z = z\n",
+    "    def __repr__(self):\n",
+    "        return \"(좌표는 %d %d %d)\" % (self.x, self.y, self.z)\n",
+    "    def __add__(self,other):\n",
+    "        return Vector(self.x + other.x, self.y + other.y, self.z + other.z)\n",
+    "    def __mul__(self,other):\n",
+    "        return Vector(self.x * other.x, self.y * other.y, self.z * other.z)\n",
+    "    def __sub__(self,other):\n",
+    "        return Vector(self.x - other.x, self.y - other.y, self.z - other.z)\n",
+    "    def dist(self):\n",
+    "        return math.sqrt(self.x * self.x + self.y*self.y + self.z*self.z)\n",
+    "    def norm(self):\n",
+    "        dist = self.dist()\n",
+    "        return self.x/dist, self.y/dist, self.z / dist\n",
+    "    def dot(self,other):\n",
+    "        return (self.x*other.x + self.y * other.y + self.z * other.z)\n",
+    "    def theta(self,other):\n",
+    "        dot = self.dot(other)\n",
+    "        dist1 = self.dist()\n",
+    "        dist2 = other.dist()\n",
+    "        return math.acos(dot/(dist1*dist2)) * (180/math.pi)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 95,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "(좌표는 60 84 100)\n",
+      "(좌표는 6000 19980 35000)\n",
+      "(좌표는 -40 -44 -50)\n",
+      "\n"
+     ]
+    }
+   ],
+   "source": [
+    "f = Vector(10,20,25)\n",
+    "g = Vector(20,27,35)\n",
+    "q = Vector(30,37,40)\n",
+    "\n",
+    "print(f+g+q)\n",
+    "print(f*g*q)\n",
+    "print(f-g-q)\n",
+    "print()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 103,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "(좌표는 10 0 0)\n",
+      "(좌표는 20 0 0)\n",
+      "(좌표는 10 -27 0)\n",
+      "(좌표는 0 0 0)\n",
+      "f 벡터의 크기 =  10.0\n",
+      "g 벡터의 크기 =  27.0\n",
+      "f의 normal vector =  (1.0, 0.0, 0.0)\n",
+      "g의 normal vector = (0.0, 1.0, 0.0)\n",
+      "두 벡터의 내적 =  0\n",
+      "f와 g의 사이각은 =  90.0\n"
+     ]
+    }
+   ],
+   "source": [
+    "f = Vector(10,0,0)\n",
+    "g = Vector(0,27,0)\n",
+    "\n",
+    "print(f)\n",
+    "print(f+f)\n",
+    "print(f-g)\n",
+    "print(f*g)\n",
+    "print(\"f 벡터의 크기 = \", f.dist())\n",
+    "print(\"g 벡터의 크기 = \", g.dist())\n",
+    "print(\"f의 normal vector = \", f.norm())\n",
+    "print(\"g의 normal vector =\" , g.norm())\n",
+    "print(\"두 벡터의 내적 = \", g.dot(f))\n",
+    "print(\"f와 g의 사이각은 = \", f.theta(g))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 104,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "class Student:\n",
+    "    studCount = 0\n",
+    "    def __init__(self,name,kor,eng,mat):\n",
+    "        self.name = name\n",
+    "        self.kor = int(kor)\n",
+    "        self.eng = int(eng)\n",
+    "        self.mat = int(mat)\n",
+    "        self.tot = self.kor + self.mat + self.eng\n",
+    "        self.avg = self.tot /3\n",
+    "        Student.studCount += 1"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 105,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "1입력 , 2출력, 3계산, 4 종료 1\n",
+      " 이름 :  qwe\n",
+      " 국어 :  12\n",
+      " 영어 :  12\n",
+      " 수학 :  12\n",
+      "1입력 , 2출력, 3계산, 4 종료 2\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "이름 : qwe 국어 :12 영어 : 12 수학 : 12 총점: 36 평균 : 12.0\n"
+     ]
+    },
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "1입력 , 2출력, 3계산, 4 종료 1\n",
+      " 이름 :  qweq\n",
+      " 국어 :  2312\n",
+      " 영어 :  132\n",
+      " 수학 :  132\n",
+      "1입력 , 2출력, 3계산, 4 종료 2\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "이름 : qwe 국어 :12 영어 : 12 수학 : 12 총점: 36 평균 : 12.0\n",
+      "이름 : qweq 국어 :2312 영어 : 132 수학 : 132 총점: 2576 평균 : 858.67\n"
+     ]
+    },
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "1입력 , 2출력, 3계산, 4 종료 3\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "총 학생수: 2 명\n",
+      "국어평균 : 1162.0 \t\t 영어평균 : 72.0 \t\t 수학평균 72.0 \t\t\n"
+     ]
+    },
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "1입력 , 2출력, 3계산, 4 종료 4\n"
+     ]
+    }
+   ],
+   "source": [
+    "# 메뉴화\n",
+    "def start():\n",
+    "    students = []\n",
+    "    while True:\n",
+    "        choice = input(\"1입력 , 2출력, 3계산, 4 종료\")\n",
+    "        if choice == \"1\":\n",
+    "            name = input(\" 이름 : \")\n",
+    "            kor = input(\" 국어 : \")\n",
+    "            eng = input(\" 영어 : \")\n",
+    "            mat = input(\" 수학 : \")\n",
+    "            stud = Student(name,kor,eng,mat)\n",
+    "            students.append(stud)\n",
+    "        elif choice == \"2\":\n",
+    "            for s in students:\n",
+    "                print(\"이름 : %s 국어 :%s 영어 : %s 수학 : %s 총점: %s 평균 : %s\" % (s.name, s.kor, s.eng, s.mat, s.tot, round(s.avg,2)))\n",
+    "        elif choice == \"3\":\n",
+    "            kortot = 0; engtot = 0; mattot =0\n",
+    "            for s in students:\n",
+    "                kortot += s.kor\n",
+    "                engtot += s.eng\n",
+    "                mattot += s.mat\n",
+    "            koravg = round(kortot / len(students),2)\n",
+    "            engavg = round(engtot / len(students),2)\n",
+    "            matavg = round(mattot / len(students),2)\n",
+    "            print(\"총 학생수: %s 명\" % len(students))\n",
+    "            print(\"국어평균 : %s \\t\\t 영어평균 : %s \\t\\t 수학평균 %s \\t\\t\" % (koravg,engavg,matavg))\n",
+    "        elif choice == \"4\":\n",
+    "            break\n",
+    "start()"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}

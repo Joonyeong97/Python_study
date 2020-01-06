@@ -1,0 +1,48 @@
+pymysql
+
+commit
+causor
+recordset -> fetch
+
+
+webbrowser
+html5
+css3를 이용하여 컬러 글꼴 정의
+두개만 쓰면 정적
+
+자바스크립트를 이용하여 동적으로 이용하게 함
+pymysql 을 이용하여 사용자를 판단
+
+Django
+nodejs
+spring
+flask
+전부다 웹 어플리케이션
+
+Apache
+mjinx
+lis
+
+crolling
+selenium
+자바스크립트 크롤링
+scriptpy
+
+linux
+etc = 제어판
+yum install mariadb-server = 마리아db설치
+systemctl start mariadb = 마리아db실행
+mysql_secure_installation = 마이쿼리설정ㅊ
+mysql -u root -p = mariadb 입장
+grant all privileges on *.* to 'root'@'%' identified by 'root'  with grant option; = 
+flush privileges; =
+firewall-cmd --permanent --zone=public --add-port=3306/tcp = 포트개방
+firewall-cmd --list-all
+firewall-cmd --reload
+systemctl restart firewalld = 방화벽 다시시작
+systemctl enable mariadb = 마리아db 자동시작
+
+그다음에 mariadb 윈도우에서 리눅스 ip접속해서 들어오면됨.
+
+아나콘다 프롬프트에서
+pip install pymysql
