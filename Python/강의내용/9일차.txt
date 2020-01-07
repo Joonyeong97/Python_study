@@ -1,0 +1,52 @@
+numpy->pandas = ndarray + diot(중복가능,순서보장)
+
+vector는 크기와 방향을 표현
+방향은 내적 = 상관계수 (-1~1)
+독립변수와 종속변수의 상관이없으면 분석할 이유가없음.
+평균과 회귀선과의 차 : 회귀오차
+관측치과 예측치의 차 : 잔차오차
+결정계수 : 데이터설명력
+
+pandas
+1차원: series = 동질적데이터
+2차원: dataframe = 열만 이질적데이터가능
+3차원: panel
+
+index key =key에의한 indexing
+키에 쓸때는 loc()
+iloc() = 데이터검색용
+행 인덱스 : index
+열 인덱스 : columes
+값 	: values
+
+2. 전처리: 
+결측치 처리 / isna
+이상치 처리 / boxplot
+	3/4분위값 - 1/4분위값 = iQR
+	3/4분위값 * 1.5배는 이상치 / 상한치,하한치를 넘어가면 이상치
+범주화 : caterical
+	정성적 데이터(숫자로 표현불가), 정량적 데이터
+정규화 : hyper parameta
+	min-max 정규화
+	모든 data에다가 min값을 빼고
+	max-min 값으로 나눠준다. 
+	
+	z score
+	data - 평균
+	------------
+	표준편차
+
+	robust 정규화
+	3/4분위수와 1/4분위수를 이용하여
+
+	nomalation?
+	데이터의 방향값으로 정규화.
+	데이터 크기를 구해서 빼준값?
+
+시각화: 
+
+데이터 요약기능 : 엑셀같은 데이터 처리가능
+	group by, pivot, pivot table
+	
+파일관리 기능 :
+데이터 타입변환 : 
