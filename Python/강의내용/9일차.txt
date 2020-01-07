@@ -1,4 +1,4 @@
-numpy->pandas = ndarray + diot(중복가능,순서보장)
+﻿numpy->pandas = ndarray + diot(중복가능,순서보장)
 
 vector는 크기와 방향을 표현
 방향은 내적 = 상관계수 (-1~1)
@@ -49,4 +49,5 @@ iloc() = 데이터검색용
 	group by, pivot, pivot table
 	
 파일관리 기능 :
-데이터 타입변환 : 
+데이터 타입변환 
+
