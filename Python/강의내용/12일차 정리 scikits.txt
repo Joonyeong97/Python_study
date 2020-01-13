@@ -1,0 +1,31 @@
+오늘 핵심
+Classification (분류) ->* LogisticRegression
+regression(예측)
+Clustering(군집)
+
+로지스틱레그레션을 오늘 중점적으로 한거임.
+
+model을 만들고 
+fit (계수) 처리를하고 predict()함수를 사용해서 끝
+
+from sklearn.linear_model import LogisticRegression
+사이킷 리니어 모델안에있는 로지스틱레그레션을 호출
+import sklearn.metrics as metrics
+메트릭스함수 호출
+
+X, y 값을 받아야함 행의 갯수는 상관이없음.
+ex ) 16행 2열 데이터set하고
+y 값 16행짜리
+
+model = LogisticRegression()
+모델을 로지스틱레그레션으로 초기화
+
+model.fit(X,y) / fit함수를 사용해서 X,y값을 입력
+y_hat = model.predict(X) / model.predict함수를 사용해서 X값을 예측값으로 변환해서 
+y_hat에 넘겨줌
+
+matrics.precision_score(y,y_hat) / 정밀도계산함수
+matrics.recall_score(y,y_hat) / 민감도 계산함수
+metrics.f1_score(y,y_hat) / F1 계산함수
+metrics.classification_report(y,y_hat) / 전체 다 나오는함수
+
