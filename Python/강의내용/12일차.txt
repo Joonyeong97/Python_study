@@ -1,0 +1,96 @@
+# scikits machine Learning
+# 우리는 딥러닝 ,GPU 분산처리 안함.
+한사람이 관리 인터페이스에 일관성이 있음
+필요없는건 Deprecate 처리됨.(없어질놈)
+
+scikits은 pandas하고 통일시키기 위함
+하나의 모델만 잘 학습시키면 같은 포멧
+estimator / transformer
+fit, predict 을하고 transform시킴
+트랜스폼을 하면 전처리한거로 데이터를 변환하겠다
+
+사이킷을 모델을 만드는게아니라 파라메타를 추정함.
+y = ax+b / 즉 a하고 b를 추정하겠다
+
+텐서플로우는 모델을 직접만들수있음.
+복잡한 문제를 해결하는놈이 텐서플로우
+
+사이킷은 문제해결을 위해서 
+simulation
+opticmization
+datamining = 데이터로부터 규칙을 찾는다. 의사결정
+
+data -> model을 찾아서 일반적인 규칙을 찾음. 일반화된 문제를 해결 ->
+과대적합이 나온다. / 데이터에 차이가 큰것들
+
+bias (타겟에서 멀어진건 ) / variance (각각의 값들의 차이)
+
+scikits이 하는일
+claassification (분류) - LogisticRegression
+regression(예측)
+clustering (군집)
+
+모델의 종류
+정보기반 : DT->RF->Adaboost -> GB ->XGBoost(GPU, 다중어처리)->앙상블,stackmodel 
+확률기반 : Niv bages 정리(text mining)->RNN으로처리
+유사도기반 : Knn, kmeans, 추천 
+오차기반 : Ann, SVM(서포트벡터머신)
+
+Data는 모든경우성이 있어야하고 대표성이있어야함.
+
+feature engineering
+전처리 - 결측치처리 , 이상치처리, 범주화, 정규화
+결측치처리 
+drop, fillna,평균,유사도처리
+
+이상치처리
+IQR * 1.5
+2배수처리 95%
+3배수처리 99%
+
+범주화 :
+cut, qcut,getdummies(onehot incoding)
+
+정규화 :
+min - max , Z점수, robust, nomalization
+
+transformation (변형) :
+select
+filtering
+요약
+arrange
+
+다중공선성
+독립변수끼리의 상관관계있을때
+세가지로 풀음
+lasso #  규제
+ridge # 제곱
+Elsticnet
+규제:regulzation
+오류를 인정하고 제외하고 시작
+
+
+select 중
+1번 Model
+Training Data / Test data
+두개 사이의 validata(검증데이터)를 이용해서 모델검증
+Kfold
+변수중요도
+
+2번 Variable(변수선택)
+
+3번 특성추출(feature extraction)
+에러, 오류,쓰레기값이 있는 데이터를 걷어내는놈이 특성추출
+FA(요인분석)
+PCA(주성분분석) 상관계수 행렬이랑 공분산 행렬을 구해서 빼주면 고유벡터와 위치가나옴
+MDA(다차원 척도법)
+
+claassification (분류) 의 평가
+정분류
+정밀도
+재현률
+특이도
+
+regression(예측) 의 평가
+예측값하고 실제값하고의 상관계수
+MSZ
