@@ -1,0 +1,51 @@
+Model 개발의 순서
+문제제기 -> 데이터수집 -> preprocessing -> learning(Model 계수) -> evaluation(평가) -> predict(예측,분류)
+					Parameter 	   평가가 잘못되면 다시 프로세싱으로
+
+분류 문제하고 예측문제를 찾아야함
+(LogisticRegression)  : 분류
+TP + TN = 재현율
+TP + FP = 정밀율
+TP + FN = 정분류율
+TN + FP = 오분류율
+FP + FN = 특이도
+
+DicisionTree -> Data가 강건함. / 시각화 whiteBox를 지원 변수 중요도를 체크해줌
+문제점 : 과적합, 변수의순서변경 등 
+그래서 나온게
+Random Forest 가 나옴. 500,1000개 등 생성후 나온 결과의 평균처리
+500개중 250개 이상 찬성나온곳으로 진행
+그 후에 나온게
+ADA Booster
+잘못된 모델을 가중치를 부여해서 모델을 만든것
+Gradian booster
+잘못된 모델을 더 분석하는것
+
+(LinearRegression) : 예측
+상관계수
+MSE  = MEAN SQURE ERROR : 실제값하고 예측값하고의 차
+
+전처리기능은 사이킷이 제일좋음
+모델은 일반화가 중요함!! 어떤데이터가 들어오든 같은 결과값~
+
+select { 	Model_select # 모델선택    train_test_split (traing set 하고 test set을 나눠줌) / cross_var_score (교차검증)
+	feature_select # 특성선택	RFE 분산이 작은데이터(영향력없는데이터)는 제거하는
+	feature_extraction # 특성추출     FA(Factor analisys)이름이달라고 같은특성이면 합침
+ 					 / PCA(주성분분석/고유값분해) / MDS(다차원 척도법)
+
+					PCA = NOISE제거/ 고유값,고유벡터(열만큼 나옴/ 정직교함)
+						      상관계수,공분산제거(정방행렬,대칭)
+
+text vector :
+단어수 카운트를 하나의 테이블로 변환
+
+tfidf :
+영문서 빈도/ 모든문서에 나타나는 단어는 중요하지않다.
+
+python core~ chainning )
+
+pipeline
+GridSearchCV
+hyper parameter를 안하기위해서 쓰는 게 GridSearchCV
+
+Train / Test 자료는 나누고 전처리
