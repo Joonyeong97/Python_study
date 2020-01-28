@@ -55,3 +55,22 @@ RNN은 영상
 AE, GAN (비선형값을 뽑아냄.)
 
 PCA는 선형으로 값을 뽑아냄(차원축소)
+
+# Cuda
+
+Constant 상수
+Variables 변수(가중치)
+placeholder 주입변수 (미니배치만큼 넘겨줌)
+session = GPU에 준다는것
+
+
+fitting은 for문으로 진행~
+미니배치사이즈로 데이터를 만듦
+신경망은 데이터가 많아야함.
+
+신경망의 자료구조는 Graph
+
+동그라미는 node 다리는 edge
+edge는 tensor가 처리함.
+그리고 분산처리가 가능함.
+분산처리는 동기화가 제일 중요함.
