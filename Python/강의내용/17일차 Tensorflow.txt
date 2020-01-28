@@ -1,0 +1,57 @@
+신경망학습은 가중치를 구하는것
+행렬곱연산
+
+관측치를 data point 라고함.
+행열은 바꿀수 없음.
+
+행열의 내적을 구하는건 하나의 축을 기준하고 데이터의 크기를 설명함.
+
+Ex/
+5개의 변수를 곱하고 더하면 회귀가 됨.
+
+가중치가 3개면 logistic Regression 이 됨
+즉 분류임.
+여태까지는 선형으로만 이해할 수가 있었음.
+
+비선형으로 바꾸기 위해서
+activation function을 달아줌
+선형문제를 비선형문제로 바꾸기 위해서.
+
+sigmoid 0~1
+tanH -1~1
+softmax 분류기
+Relu
+
+deepleaning은 가중치만 정해주면 알아서 학습
+activation 문제를 달아줘야 xor 문제를 해결가능함.
+
+실제값 - 예측값 의 제곱
+예측은 - MSE
+분류는 -enthropy
+
+미분이 가능한 cost function
+미분은 기울기를 구해주고
+적분은 면적을 구해주는것
+
+순전파로 갔다가
+역전파로 감
+
+이게 바로 FFNN
+
+데이터를 잘라서 넘겨주는것이 미니배치
+
+optimizer가 컨트롤 하는것은
+learning mate,기울기
+두개를 한것이 adam
+
+가기전에 방향을 잡는게 momentem
+
+optimizer는 learning mate 를 조정할때 처음엔 크게 나중엔 작게
+
+CNN은 이미지
+RNN은 영상 
+
+비지도학습
+AE, GAN (비선형값을 뽑아냄.)
+
+PCA는 선형으로 값을 뽑아냄(차원축소)
