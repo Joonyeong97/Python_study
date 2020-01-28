@@ -1,4 +1,4 @@
-Model 개발의 순서
+﻿Model 개발의 순서
 문제제기 -> 데이터수집 -> preprocessing -> learning(Model 계수) -> evaluation(평가) -> predict(예측,분류)
 					Parameter 	   평가가 잘못되면 다시 프로세싱으로
 
@@ -20,6 +20,7 @@ ADA Booster
 잘못된 모델을 가중치를 부여해서 모델을 만든것
 Gradian booster
 잘못된 모델을 더 분석하는것
+XGBOOST
 
 (LinearRegression) : 예측
 상관계수
