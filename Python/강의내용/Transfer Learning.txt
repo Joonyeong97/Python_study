@@ -1,0 +1,33 @@
+https://www.youtube.com/watch?v=AwobGOb7sCM&list=PLS8gIc2q83OjStGjdTF2LZtc0vefCAbnX&index=40
+
+출처 보고따라하는걸로
+https://github.com/neowizard2018/neowizard/tree/master/MachineLearning/ 
+깃주소
+
+python -m pip install --upgrade pip
+pip install --ignore-installed --upgrade tensorflow
+pip install tensorflow-hub
+
+Anaconda prompt로 진행하는거임..
+깃허브에 이미 구글에서 미리 만들어놓은 모델링이있어서 바로사용가능!
+
+
+깃허브에 있는 강아지사진을 학습시킬거임.
+
+경로는 항상
+cd 경로
+순으로 변경 그냥 경로 복붙하면됨.
+
+Traing Data --
+python ./retrain.py --image_dir=./flower_photos
+
+python ./retrain.py --image_dir=./animal_photos
+모델 재학습 animal_photos 폴더안에 있는 사진들 각각
+50장씩 있는데 다 학습하는거임.
+파인튜닝으로 학습된 가중치와 바이어스등의 학습결과는 /tmp 에 저장됨
+
+학습된 내용을 바탕으로 이미지 분류를 수행 label_image.py
+
+python ./label_image.py --graph=C:/tmp.output_graph.pb --labels=C:/tmp/output_labels.txt --input_layer=Placeholder --output_layer=final_result --image=./test1.jpg
+
+여기서 test1.jpg 는 자기가 넣고싶은거 넣으면됨.
