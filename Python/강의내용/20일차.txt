@@ -1,0 +1,57 @@
+RNN 강의
+
+CNN-> 특징추출->FFNN
+
+
+RNN -> 특징추출 ->FFNN
+
+입력데이터를 받아서 가중치를 받아서 output진행
+
+입력데이터는 벡터임 (미니배치)
+특징을하나 추출하면 회귀
+여러개 추출하면 분류
+
+가중치를 cell로 표현
+
+앞단의 FFNN에서 2차원 데이터를 받고 그 데이터 가중치를 곱해서 나오는데
+옆에 셀에 영향을 미칠수 있도록 아웃풋이 2개로 만들어져있음.
+
+이러면 시간지연 lateout time
+
+가중치로부터 나온 아웃풋이 지속적으로 끝까지 가야되는데
+영향력을 못미치는 경우도 있고
+다른말로는 다른 아웃풋에서 영향을 미치고 다음 아웃풋으로 영향을 미치는 놈도있음
+그래서 나온것이
+LSTM
+
+LSTM은 처음 영향을 놓치지 않기위해서 
+
+control state 
+hidden state  =  out put
+
+gate 가 3개임
+input output forget gate
+
+심플 RNN은 1개의 가중치만 필요
+
+가중치가 4개 필요하다
+총 4개의 기억공간이 필요하다
+
+그래서 RNN은 시계열 데이터
+
+one to one
+one to many
+many to one
+many to many = 동영상 번역
+many to many = 
+
+
+RNN의 종류 LSTM
+BI-directional RNN
+
+글자가 RNN으로 진행하려면
+Embedding을 진행해야함
+one-hot-encoding
+tfidfcounter
+CBOW
+ngram
