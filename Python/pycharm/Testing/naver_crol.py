@@ -5,7 +5,8 @@ from tqdm import tqdm
 
 
 # 키워드 입력
-keyword = "제주도"
+keyword = "골든 리트리버 성견"
+key = "gold_dog"
 
 # 웹접속 - 네이버 이미지 접속
 # 79.0.3945.36 / chrome version
@@ -17,7 +18,7 @@ url = 'https://search.naver.com/search.naver?where=image&sm=tab_jum&query={}'.fo
 driver.get(url)
 # 페이지 스크롤 다운
 body = driver.find_element_by_css_selector('body')
-for i in range(3):
+for i in range(150):
     body.send_keys(Keys.PAGE_DOWN)
     time.sleep(1)
 
@@ -34,9 +35,9 @@ print('수집완료')
 
 # 파일 저장
 import os
-if not os.path.isdir('./{}'.format(keyword)):
+if not os.path.isdir('./{}'.format(key)):
     print('폴더생성')
-    os.mkdir('./{}'.format(keyword))
+    os.mkdir('./{}'.format(key))
 
 # 다운로드
 from urllib.request import urlretrieve
@@ -48,7 +49,7 @@ for index, link in tqdm(enumerate(result)):
     # print(link[start:end])
     filetype = link[start:end]
     if filetype == '.jpg':  # jpg 만 다운
-        urlretrieve(link, './{}/{}{}{}'.format(keyword, keyword, index, filetype))
+        urlretrieve(link, './{}/{}{}{}'.format(key, key, index, filetype))
         time.sleep(1)
 print("다운로드 완료")
 
