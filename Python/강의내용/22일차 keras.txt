@@ -1,0 +1,53 @@
+
+
+Backend -> tensorflow, CNTK, Theano, Keras
+wrapper -> Constant, Variables(가중치), placeholder(데이터주입)
+
+행렬연산 (오차기반학습) -> for, epoch, hatchsite
+loss function, activation, optimizer
+-> compile -> model( layer 방식 ) -> dense(출력, 입력)해주면 가중치를 자동으로 선언 해줌
+.add 함수로 레이어를 추가가능함 ) 즉 가중치 선언할 필요가없음/ 리턴받을필요가없음
+
+모델만드는 방법 -> sequential, functional(multi input, multi output), model
+-> layer input (Dense, CNN, RNN)
+->compile에 loss, activation, optimizer만 써서 넣으면됨
+evaluate에 테스트세트만 넣어주면됨.
+-> Predict
+
+케라스는 sckit하고 연결되어있음
+Classifier랑 Regressor를 이용해서 
+딱 분류랑 예측만함.
+CNN은 이미지를 특징을 추출하는것이고
+RNN은 텍스트같은 시간적 특성을 가지고 분류예측.
+
+Tensorflow 를 배우는 이유는 작업을 자동화 하기 위해서
+공장에 기계소리를 녹음해서 어떤소리가 나면 언제쯤 고장이 나는지 확인 
+scikit에서는 Pipeline / GridseachCV가 있어서 좋음
+텐서플로랑 사이킷은 질이다르지만 
+케라스가 모델을 객체로 만들어서
+사이킷에있는 그리드서치CV를 이용해서 최적의 하이퍼파라미터를 정해질수있게끔 해줌
+ 
+Keras에선 CNN층을 많이쌓은건 Applycation -> Transfor learning
+pre-traning( 같은 분야(동질적인) 모델의 가중치를 이용해서 학습
+RNN망이 10단계 이상을 쌓이면 기울기 손실의 문제가있음.
+시간적인 데이터이기 때문에..
+그래서 만들어진게 LSTM이 만들어짐
+RNN-> 
+LSTM(Forget, input, output) -> GRU(update, reset) -> seq2seq -> attention(집중망)
+attention( 들어온 문장중에 중요한문장을 학습함 , 가중치 3개를 가지고 학습을함)
+Attention( 세개의 가중치
+1. Query
+2. Key
+3. value
+)
+-> attention+seq2seq = NMT를 만듦 -> 근대 seq2seq를 없애도 잘돌아가서 ->
+transformer -> BERT(신경망을 통해 양방향으로 진행)
+
+1. Image , Movie -> OpenCV
+2. Sound -> librosa
+3. Text -> nltk / corpus / kornlpy -> gensim(임베딩툴)
+전처리 툴들
+
+데이터를 이용하여 프로젝트를 이용해야함
+
+이미지는 GAN / 텍스트는 BURT
