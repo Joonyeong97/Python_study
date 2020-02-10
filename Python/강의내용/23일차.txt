@@ -1,0 +1,23 @@
+keras
+
+CNN -> Depth
+Pixel 주변 -> 적분으로
+filter , padding, stride = COND2에 다 들어있음
+pooling
+
+Resnet 152개
+
+ImageDataGenerate =>이미지 증가
+
+모델만드는방법 
+시퀀스, model ,  functional
+
+tranjection / 전이학습 -> 데이터부족문제 해결
+
+필터의 사이즈와 레이어의 깊이
+요새는 transfer머신이 유행/ 전이학슴
+
+가중치는 냅두고 뒤에 FFNN망만 타겟에 맞게끔 수정만하는게
+Fine 튜닝
+
+동영상은 resnet과 vgg16
