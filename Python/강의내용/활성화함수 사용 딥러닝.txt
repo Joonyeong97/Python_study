@@ -1,0 +1,5 @@
+심층 신경망의 은닉층에는 어떤 활성화 함수를 써야할까?
+사람마다 다르지만 일반적으로 ELU -> leakyRelu (그외변종) -> Relu -> tanh -> logstic 순으로
+실행속도가 중요하다면 leakyrelu 가 ELU보다 나을수있음. 
+하이퍼 파라미터를 더 추가하고 싶지 않으면 Leaky relu는 0.01 / ELU는 1 로 진행 = alpha 값
+신경망이 과대적합이면 RReLU / 훈련세트가 매우크다면 PReLU 포함시키는것이 좋음.
