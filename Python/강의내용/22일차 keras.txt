@@ -40,6 +40,7 @@ Attention( 세개의 가중치
 2. Key
 3. value
 )
+
 -> attention+seq2seq = NMT를 만듦 -> 근대 seq2seq를 없애도 잘돌아가서 ->
 transformer -> BERT(신경망을 통해 양방향으로 진행)
 
