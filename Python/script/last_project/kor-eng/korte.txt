@@ -1,0 +1,1230 @@
+Go.	가.
+Hi.	안녕.
+Run!	뛰어!
+Run.	뛰어.
+Who?	누구?
+Wow!	우와!
+Fire!	쏴!
+Help!	도와줘!
+Jump!	점프!
+Jump.	점프해.
+Wait!	기다려!
+Wait!	잠깐!
+Wait.	기다려.
+Begin.	시작해.
+Hello!	안녕!
+I see.	알았어.
+I try.	시도해볼게.
+I won!	내가 이겼어!
+Oh no!	아니 이런!
+Relax.	진정해.
+Shoot!	쏴!
+Smile.	웃어.
+Attack!	공격!
+Attack!	공격해!
+Freeze!	꼼짝마!
+Get up.	일어나.
+Got it!	알겠어!
+Hug me.	안아줘.
+I know.	알아.
+I work.	나 일해.
+Listen.	들어.
+No way!	절대 아니야.
+No way!	그럴리가!
+Thanks.	고마워.
+We try.	우리는 시도할거야.
+We won.	우리가 이겼어.
+Why me?	왜 나야?
+Awesome!	굉장해!
+Be fair.	공정하게 해.
+Beat it.	저리 가.
+Call us.	우리한테 연락해.
+Come in.	들어와.
+Come on!	어서!
+Get out.	나가.
+Go away!	저리 가!
+Go away.	저리 가.
+Goodbye!	안녕!
+He came.	그가 왔어.
+He came.	그 사람이 왔어.
+Help me!	도와줘!
+Help me.	도와줘.
+Hit Tom.	톰을 때려.
+I agree.	동의해.
+I'm sad.	슬퍼.
+Me, too.	나도.
+Open up.	열어.
+Perfect!	완벽해!
+Show me.	보여줘.
+Shut up!	시끄러워!
+Skip it.	건너뛰어.
+Stop it.	그만해.
+Tell me.	말해.
+Tom won.	톰이 이겼어.
+Wake up!	일어나!
+Wash up.	설거지 해.
+Welcome.	어서오세요.
+Welcome.	환영합니다.
+Who won?	누가 이겼어?
+Why not?	왜 안돼?
+Cheer up!	힘내!
+Cool off!	진정해!
+Get lost.	꺼져.
+Go ahead.	계속해.
+Good job!	잘했어!
+Grab Tom.	톰을 잡아.
+How cute!	귀엽잖아!
+How cute!	이렇게 귀엽다니!
+How deep?	얼마나 깊게?
+Hurry up.	서둘러.
+I forgot.	잊어버렸어.
+I'm ugly.	나는 못 생겼다.
+It hurts.	아파.
+It works.	동작하네.
+It works.	작동하네.
+It works.	되네.
+Let's go!	가자!
+Look out!	조심해!
+Sit down!	앉아!
+Sit here.	여기 앉아.
+Speak up!	크게 말해!
+Stand up!	일어서!
+Tell Tom.	톰한테 말해.
+Tell Tom.	톰에게 말해.
+They won.	그들이 이겼어.
+They won.	그 사람들이 이겼어.
+Tom died.	톰이 죽었어.
+Tom left.	톰이 떠났어.
+Tom left.	톰은 떠났어.
+Tom lied.	톰이 거짓말을 했어.
+Tom lied.	톰이 거짓말했어.
+Tom lost.	톰이 졌어.
+Tom paid.	톰이 지불했어.
+Tom quit.	톰이 그만둬.
+Tom wept.	톰이 눈물을 흘렸어.
+Too late.	너무 늦어.
+Trust me.	날 믿어.
+Try hard.	열심히 해.
+Try some.	좀 먹어봐.
+Try this.	이거 시도해봐.
+What for?	뭐 하러?
+What fun!	재밌잖아!
+What fun!	이렇게 재미있을 수가!
+Who died?	누가 죽었어?
+Who quit?	누가 그만둬?
+Answer me.	대답해.
+Birds fly.	새가 날고 있네.
+Calm down.	진정해.
+Come here.	여기로 와.
+Come home.	집에 와.
+Dogs bark.	개가 짖네.
+Don't lie.	거짓말 하지 마.
+Don't lie.	거짓말 하지 마세요.
+Fantastic!	끝내주네!
+Follow me.	따라와.
+Forget it.	잊어버려.
+Forget me.	날 잊어.
+Forget me.	날 잊어버려.
+Get ready.	준비해.
+Good luck.	행운을 빌어.
+Good luck.	잘 되길 바라.
+Grab this.	저걸 움켜쥐어.
+Hands off.	손대지 마.
+He smiled.	그 사람은 미소지었어.
+Hold this.	저걸 잡고 있어.
+How awful!	끔찍해라!
+How awful!	이렇게 끔찍할 수가!
+I fainted.	나는 기절했어.
+I laughed.	나는 웃었어.
+I promise.	약속할게.
+I'm sorry.	미안해.
+I'm sorry.	미안해요.
+I'm sorry.	죄송합니다.
+I'm sorry.	유감입니다.
+It rained.	비가 왔어.
+It rained.	비가 내렸어.
+It snowed.	눈이 왔어.
+It stinks.	냄새나.
+It's 7:45.	지금 7시 45분이야
+Leave now.	당장 떠나.
+Of course!	물론이지!
+Of course.	물론이죠.
+Oh please!	아 제발!
+Read this.	이걸 읽어.
+Say hello.	인사해.
+See below.	아래를 봐.
+Seriously?	진심이야?
+Sit there.	거기 앉아.
+Sit tight.	잠자코 있어.
+Start now.	당장 시작해.
+Stay calm.	침착해.
+Stay here.	여기에 있어.
+Step back.	물러서.
+Stop here.	여기서 멈춰.
+Take care.	주의하세요.
+Take this.	가져.
+Take this.	이거 가져.
+Take this.	이걸 가져.
+Thank you.	고마워.
+Then what?	그래서?
+They left.	그들이 떠났어.
+They left.	그 사람들은 떠났어.
+They left.	그들은 떠났어.
+They lied.	그들이 거짓말 쳤어.
+They lost.	그들이 졌어.
+They lost.	그 사람들이 졌어.
+Tom cried.	톰은 울었어.
+Tom dozed.	톰이 꾸벅 졸았어.
+Tom drove.	톰이 운전했어.
+Tom knits.	톰이 뜨개질 하고 있어.
+Tom knows.	톰은 알고 있어.
+Try again.	다시 한 번 해봐.
+Turn left.	왼쪽으로 돌아.
+Turn left.	좌회전해.
+Wait here.	여기서 기다려.
+Watch out!	조심해!
+We talked.	우린 서로 얘기했어.
+We waited.	우린 기다렸어.
+Well done!	잘 했어!
+Who cares?	누가 신경써?
+Who knows?	누가 알아?
+Wonderful!	멋져!
+You idiot!	이 바보야!
+You tried.	가상해.
+All aboard!	모두 타!
+Ask anyone.	누군가에게 물어봐.
+Come closer.	가까이 와.
+Come inside.	안으로 들어와.
+Finish this.	이걸 끝내.
+Get serious.	진지하게 해.
+He chuckled.	그 사람 킬킬 웃었어.
+He resigned.	그 사람은 은퇴했어.
+How strange!	참 이상하네!
+I don't lie.	나는 거짓말 하지 않습니다.
+I don't lie.	난 거짓말 안해.
+I don't lie.	나는 거짓말 하지 않아.
+I exercised.	난 운동했어.
+I overslept.	나는 늦잠잤어.
+I'm nervous.	긴장돼요.
+I'm nervous.	떨려요.
+I'm shocked.	충격이야.
+Ignore that.	그건 무시해.
+It's a pity.	안타까워요.
+Keep moving.	계속 움직이고 있어봐.
+Keep trying.	계속 시도해.
+Look around.	둘러봐.
+Money talks.	돈이 최고야.
+My dog died.	내 개는 죽었어.
+Nice timing.	타이밍 좋네.
+Nice timing.	좋은 타이밍이야.
+Nobody came.	아무도 안왔어.
+Nobody died.	아무도 안 죽었어.
+Nobody died.	아무도 죽지 않았어.
+Nobody lied.	아무도 거짓말을 안 했어.
+Nobody lied.	아무도 거짓말을 하지 않았어.
+Plants grow.	식물이 자란다.
+Please sing.	노래 부탁해.
+Please stay.	제발 남아 있어줘.
+Please stop.	제발 멈춰.
+Release him.	그 사람을 놓아 줘.
+Release him.	그를 놓아 줘.
+Remember it.	기억해.
+Say goodbye.	작별인사해.
+Say nothing.	아무 말도 하지 마.
+Stop crying.	그만 울어.
+Stop moving!	움직이지 마!
+They danced.	그들은 춤췄어.
+They danced.	그 사람들은 춤을 췄어.
+They hugged.	그 사람들은 서로 포옹했어.
+They kissed.	그 사람들 서로 키스했어.
+They obeyed.	그 사람들은 복종했어.
+They smiled.	그들이 웃었어.
+They smiled.	그 사람들이 웃었어.
+Tom blushed.	톰의 얼굴이 빨개졌어.
+Tom cheated.	톰이 사기 쳤어.
+Tom cheated.	톰이 속임수를 썼어.
+Tom clapped.	톰이 박수쳤어.
+Tom clapped.	톰이 박수를 쳤어.
+Tom coughed.	톰은 기침했어.
+Tom drowned.	톰이 익사했어.
+Tom drowned.	톰이 물에 빠져 죽었어.
+Tom escaped.	톰이 빠져나갔어.
+Tom escaped.	톰이 빠져나왔어.
+Tom exhaled.	톰이 숨을 내쉬었어.
+Tom exhaled.	톰이 날숨을 쉬었어.
+Tom fainted.	톰이 기절했어.
+Tom frowned.	톰은 얼굴을 찡그렸어.
+Tom giggled.	톰이 피식 웃었어.
+Tom giggled.	톰이 낄낄거렸어.
+Tom giggled.	톰이 키득거렸어.
+Tom grinned.	톰이 씩 웃었어.
+Tom grinned.	톰이 씨익 웃었어.
+Tom groaned.	톰이 앓는 소리를 했어.
+Tom inhaled.	톰이 숨을 들이마셨어.
+Tom kneeled.	톰이 무릎을 꿇었어.
+Tom laughed.	톰이 웃었어.
+Tom's lying.	톰은 거짓말 치고 있어.
+Turn around.	돌아.
+Walk slowly.	천천히 걸어.
+We promised.	우린 약속했어.
+We remember.	우린 기억하고 있어.
+We survived!	우리가 살아남았어!
+What's that?	저건 뭐야?
+Work slowly.	쉬엄쉬엄 일해.
+You're mine.	넌 내 거야.
+You're mine.	당신은 나의 것입니다.
+Anybody here?	누구 있어?
+Anybody home?	누구 집에 있어?
+Anybody home?	집에 누군가 있어?
+Anybody hurt?	누가 다쳤어?
+Anything new?	새로운 것이라도 있어?
+Be realistic!	현실적으로 생각해!
+Beef, please.	쇠고기요.
+Blood is red.	피는 붉다.
+Can I go now?	이제 가도 되나요?
+Come forward.	앞쪽으로 와.
+Come quickly!	빨리 와!
+Come quickly!	빨리 오세요!
+Don't eat it.	먹지 마.
+Drive faster.	빨리 운전해.
+Examine them.	이것들 조사해봐.
+Examine this.	이걸 조사해봐.
+Fish, please.	물고기요.
+Ghosts exist.	유령은 존재해.
+Grab a spoon.	숟가락 집어.
+He succeeded.	그 사람이 성공했어.
+How annoying!	이렇게 짜증날 수가!
+How annoying!	이렇게나 짜증나다니!
+How arrogant!	이렇게나 건방지다니!
+How horrible!	이렇게나 끔찍하다니!
+I apologized.	난 사과했어.
+I don't know.	나는 몰라요.
+I hate liars.	난 거짓말쟁이가 싫어.
+I need money.	돈이 필요해요.
+I understand.	이해해.
+I understood.	이해했어.
+I'm addicted.	난 중독자야.
+I'm bleeding.	나 피나
+Is that okay?	괜찮은 거예요?
+Is this mine?	이거 내꺼니?
+Is this wine?	이게 와인이야?
+It'll be hot.	더워질거야.
+It's suicide.	자살입니다.
+Just keep it.	그냥 그거 가져.
+Keep dancing.	계속 춤춰.
+Keep dancing.	계속 춤추고 있어봐.
+Keep digging.	계속 땅 파고 있어봐.
+Keep digging.	계속 땅 파.
+Keep driving.	계속 운전하고 있어봐.
+Keep focused.	계속 집중하고 있어봐.
+Keep looking.	계속 보고 있어봐.
+Keep reading.	계속 읽어.
+Keep singing.	계속 노래하고 있어.
+Keep singing.	계속 노래해.
+Keep smiling.	계속 미소지어.
+Keep smiling.	계속 웃어.
+Keep smiling.	계속 웃고 있어봐.
+Keep talking.	계속 말해.
+Keep talking.	계속 말하고 있어봐.
+Move quietly.	조용히 움직여.
+Nobody asked.	아무도 안 물어봤어.
+Nobody knows.	아무도 몰라.
+Please hurry.	서둘러 주세요.
+Please leave.	제발 떠나 줘.
+Please relax.	제발 진정해.
+Please smile.	웃어줘.
+She was busy.	그는 바빴다.
+Someone came.	누군가 왔어.
+Stop reading.	그만 읽어.
+Stop smoking.	담배 피지 마.
+Stop staring.	그만 쳐다봐.
+Stop talking.	그만 말해.
+Stop whining.	그만 흐느껴.
+Stop yelling!	그만 소리쳐!
+They escaped.	그 사람들은 도망 쳤어.
+They laughed.	그 사람들 웃었어.
+They refused.	그 사람들은 거절했어.
+They relaxed.	그 사람들은 진정했어.
+Tom answered.	톰이 대답했어.
+Tom approved.	톰이 승낙했어.
+Tom chuckled.	톰이 싱긋 웃었어.
+Tom chuckled.	톰이 빙그레 웃었어.
+Tom enlisted.	톰이 입대했어.
+Tom finished.	톰이 끝냈어.
+Tom flinched.	톰이 움찔했어.
+Tom grumbled.	톰이 궁시렁거렸어.
+Tom grumbled.	톰이 투덜거렸어.
+Tom insisted.	톰이 주장했어.
+Tom is eager.	톰은 열성적이야.
+Tom is quick.	톰은 빨라.
+Tom is quick.	톰은 날렵해.
+Tom is silly.	톰은 실없어.
+Tom is sober.	톰은 제정신이야.
+Tom is sober.	톰은 멀쩡해.
+Tom listened.	톰이 듣고 있었어.
+Tom shrugged.	톰이 어깨를 으쓱했어.
+Tom whistled.	톰이 휘파람 불었어.
+Unbelievable!	설마!
+We apologize.	우리가 사과할게.
+We don't lie.	우리는 거짓말을 하지 않아요.
+We don't lie.	우린 거짓말 안해.
+We overslept.	우린 늦잠잤어.
+We succeeded.	우린 성공했어.
+We succeeded.	우리는 성공했어.
+We're inside.	우리 안에 들어와 있어.
+We're inside.	우린 안에 있어요.
+Welcome back.	어서 와.
+Welcome home.	어서와.
+What is that?	저것은 무엇입니까?
+Any questions?	질문 있어?
+Any questions?	아무 질문이라도?
+Can I ask why?	이유를 물어봐도 돼?
+Cats are cute.	고양이는 귀여워.
+Come tomorrow.	내일 와.
+Eat something.	뭔가 먹어.
+Everyone dies.	누구나 죽어.
+Flowers bloom.	꽃이 피네.
+Grab the rope.	로프를 잡으세요.
+He's autistic.	그 사람은 자폐성향이 있어.
+How beautiful!	이렇게나 아름다울 수가!
+How wonderful!	이렇게 멋질 수가!
+I am homesick.	나 향수병 걸렸어.
+I can't sleep.	잠이 와.
+I feel guilty.	죄책감이 들어.
+I feel lonely.	외로워.
+I got engaged.	나 약혼했어.
+I hate myself.	나는 내 자신이 싫어.
+I like horses.	나는 말을 좋아해.
+I like winter.	난 겨울이 좋아.
+I miss my cat.	난 내 고양이가 그리워.
+I smell blood.	피 냄새가 납니다.
+I use Firefox.	나는 파이어폭스를 사용해.
+I want to die.	죽고 싶어요.
+I want to die.	죽고 싶어.
+I'll kill him.	나는 그를 죽일 것이다.
+I'm at school.	난 학교에 있어.
+I'm depressed.	우울해.
+Is my time up?	내 시간 끝났어?
+Is that blood?	그거 피야?
+Keep fighting.	계속 싸워.
+My head hurts.	머리가 아파요.
+Please listen.	제발 좀 들어.
+Quiet, please.	조용히 해줘.
+Quit gambling.	도박 그만해.
+Say something.	아무 말이나 해봐.
+She overslept.	그 사람은 늦잠잤어.
+She was naive.	그는 순진했다.
+She was young.	그는 어렸다.
+Show yourself.	너의 모습을 드러내.
+Show yourself.	네 모습을 보여줘.
+Speak clearly.	분명하게 말해.
+Start singing.	노래 시작해.
+Stay positive.	긍정적으로 있어.
+Stop babbling.	그만 떠들어.
+Stop fighting!	그만 싸워!
+Stop laughing.	그만 웃어.
+Stop shooting.	총 그만 쏴.
+Stop worrying.	그만 걱정해.
+Stop worrying.	걱정 그만해.
+Thanks anyway.	어쨌든 고마워.
+That's my cat.	저거 내 고양이야.
+That's not it.	아니야!
+They screamed.	그 사람들은 비명을 질렀어.
+Tom confessed.	톰이 자백했어.
+Tom graduated.	톰이 졸업했어.
+Tom has a cat.	톰은 고양이를 키우고 있어.
+Tom hesitated.	톰이 주저했어.
+Tom hesitated.	톰이 머뭇거렸어.
+Tom is honest.	톰은 정직하다.
+Tom overslept.	톰은 늦잠잤어.
+Watch closely.	가까이서 봐.
+We can buy it.	이건 우리가 살 수 있어.
+We understand.	우린 이해해.
+We want peace.	우리는 평화를 원합니다.
+You work hard.	너는 열심히 일을 한다.
+Apples are red.	사과는 빨개.
+Autumn is here.	가을이 되었습니다.
+Autumn is here.	가을이 왔어요.
+Can I help you?	제가 좀 도와 드릴까요?
+Cats are great.	고양이들은 멋져.
+Do you hear me?	제 말이 들리세요?
+Everybody knew.	모두가 알고 있었어.
+Everybody left.	모두 떠났어.
+Everybody lies.	누구나 거짓말 해.
+Everyone stood.	모두 일어섰어.
+Everyone stood.	모두가 일어섰어.
+Happy New Year!	새해 복 많이 받아.
+He was hard up.	그는 돈에 쪼들리고 있었다.
+Hello everyone!	모두들 안녕!
+I don't buy it.	못 믿어.
+I like reading.	독서를 좋아합니다.
+I like to work.	나는 일하기 좋아해.
+I love lasagna.	저는 라자냐를 좋아해요.
+I love my home.	난 내 집이 좋아.
+I study Korean.	한국말을 공부합니다.
+I'll find them.	내가 찾아 볼게.
+I'm very sorry.	정말 미안해.
+I'm very sorry.	정말 죄송합니다.
+It's not funny.	안 재밌어.
+It's so simple.	정말 간단해.
+Keep Tom there.	톰은 여기에 두세요.
+Keep listening.	계속 들어.
+Keep searching.	계속 찾아봐.
+Keep searching.	계속 찾고 있어봐.
+Louder, please.	좀더 큰소리로 부탁해.
+Only God knows.	신만이 아실 것입니다.
+Please proceed.	진행해줘.
+Read this book.	이 책 읽어.
+Read this book.	이 책을 읽으세요.
+Science is fun.	과학은 재밌어.
+Smoking stinks.	담배 냄새 나.
+Someone called.	누군가 불렀어.
+Sorry I'm late.	늦어서 미안해.
+Stop grumbling.	그만 투덜거려.
+Tell everybody.	모두한테 말해.
+Tell everybody.	모두에게 말해.
+That is my dog.	이건 내 강아지야.
+That's suicide.	그것은 자살입니다.
+The cat meowed.	고양이가 야옹하고 울었어.
+The ice melted.	얼음이 녹았어.
+They quarreled.	그사람들 싸웠어.
+Ticket, please.	티켓 부탁해.
+Tom apologized.	톰이 사과했어.
+Tom hates cats.	톰은 고양이를 싫어해.
+Tom is abusive.	톰은 폭력적이야.
+Tom is awesome.	톰은 정말 멋져.
+Watch yourself.	조심해.
+We need change.	우린 변화가 필요해.
+We surrendered.	우린 항복했어.
+We volunteered.	우린 자원해서 했어.
+You look smart.	너 똑똑해 보여.
+You scared Tom.	넌 톰을 무섭게 했어.
+Behave yourself.	처신 잘해.
+Boil some water.	물 좀 끓여.
+Can you help me?	저를 좀 도와 주실래요?
+Congratulations!	축하해!
+Did Tom do that?	톰이 그랬대?
+Did Tom look OK?	톰은 괜찮아 보였어?
+Do you like rap?	랩 좋아해요?
+Do you like rap?	랩 좋아해?
+Don't lie to me.	내게 거짓말 하지 마.
+Don't lie to me.	제게 거짓말 하지 마세요.
+Don't lie to us.	우리에게 거짓말 하지 마.
+Don't lie to us.	저희에게 거짓말 하지 마세요.
+Drive carefully.	운전 조심하세요.
+Drive carefully.	운전 조심해.
+Everybody knows.	모두가 알고 있어.
+Everyone dreams.	누구나 꿈을 꿔.
+Everyone looked.	모두들 쳐다봤어.
+Everyone prayed.	모두 기도했어.
+Everyone prayed.	모두들 기도했어.
+Everyone smiled.	모두들 미소지었어.
+Everyone waited.	모두들 기다렸어.
+Green suits you.	초록색이 너한테 어울려.
+Have a good day.	좋은하루 되세요.
+He came at dawn.	그는 새벽에 왔다.
+He is depressed.	그는 우울하다.
+He loves trains.	그는 열차를 좋아한다.
+How fascinating!	이렇게 매력적일 수가!
+How fascinating!	이렇게나 매력적이라니!
+How interesting!	이렇게나 흥미롭다니!
+I caught a cold.	감기 걸렸어.
+I caught a cold.	감기에 걸렸어.
+I didn't scream.	난 비명을 지르지 않았어.
+I felt excluded.	난 소외감을 느꼈어.
+I hate funerals.	장례식이 싫어.
+I hate my voice.	나는 내 목소리가 싫다.
+I know Tom well.	나는 톰을 잘 안다.
+I learned a lot.	나는 많이 배웠어.
+I misunderstood.	난 오해했어.
+I saw him there.	난 그 사람을 저기서 봤어.
+I was convicted.	나는 유죄 판결을 받았다.
+I work at a zoo.	나는 동물원에서 일해.
+I'm embarrassed.	창피해.
+I'm heartbroken.	제 마음이 아파요.
+I'm not sulking.	나 삐친 거 아니야.
+Is this ethical?	이거 윤리적이야?
+It doesn't hurt.	아프지 않아.
+Keep the change.	잔돈은 가지세요.
+Might I come in?	내가 들어와도 될까?
+My blood boiled.	내 피가 끓었다.
+My cat is black.	내 고양이는 검은색 고양이야.
+Please continue.	계속 해줘.
+She disappeared.	그 사람이 사라졌어.
+She disappeared.	그가 사라졌어.
+She was my boss.	그는 내 상사였다.
+She's depressed.	그녀는 우울하다.
+Someone coughed.	누군가 기침했어.
+Sorry, I'm late.	늦어서 미안합니다.
+That was stupid.	그건 멍청했어.
+That's a pencil.	그거 연필이야
+That's horrible.	끔찍하네.
+The bag is full.	가방이 꽉 찼습니다.
+The cat is lazy.	고양이는 게을러.
+There was blood.	피가 있었다.
+They believe me.	그 사람들은 날 믿어.
+They want peace.	그들은 평화를 원한다.
+They were naive.	걔들이 순진했어.
+This is suicide!	이것은 자살입니다.
+Tom disappeared.	톰이 사라졌어.
+Tom is a runner.	톰은 달리기 선수야.
+Tom volunteered.	톰이 자웠했어.
+Tom was too old.	톰은 너무 늙었어.
+Watch carefully.	잘 봐.
+We need experts.	우리에겐 전문가가 필요해.
+What time is it?	몇시 입니까?
+Why do we dream?	왜 우리는 꿈을 꿔?
+Write something.	뭔가 써.
+Are you busy now?	지금 바빠?
+Are you in there?	너 거기 있어?
+Are you sleeping?	자고 있어?
+Call this number.	이 번호로 전화해.
+Choose carefully.	신중하게 골라.
+Come immediately.	즉시 와.
+Do you like fish?	생선 좋아해요?
+Do you like fish?	생선 좋아해?
+Do you like fish?	물고기 좋아하나요?
+Do you like fish?	물고기 좋아해?
+Drink some water.	물 좀 마셔.
+Everybody smiled.	모두 웃었어.
+Everybody smiled.	모두 미소지었어.
+Everyone changes.	누구나 바뀌어.
+Everyone laughed.	모두가 웃었어.
+Give me my sword.	내 검을 줘.
+Give me the file.	나한테 파일 줘.
+He loves singing.	그는 노래하기를 좋아한다.
+Her hair is long.	그녀의 머리카락은 길어.
+Her hair is long.	그녀의 머리카락은 길다.
+Here is the bill.	여기 계산서 입니다.
+His face was red.	그 사람 얼굴은 빨갰어.
+How embarrassing!	이렇게 창피할 수가!
+I bought a horse.	난 말 한 마리를 샀어.
+I don't envy him.	난 그 사람이 부럽지 않아.
+I don't envy you.	난 네가 부럽지 않아.
+I felt very safe.	나는 매우 안전하다고 느꼈다.
+I like languages.	언어를 좋아합니다.
+I like languages.	언어가 좋습니다.
+I lost my wallet.	지갑을 잃어버렸어.
+I missed the bus.	버스를 놓쳤어요.
+I said I'm sorry.	미안하다고 했잖아.
+I said I'm sorry.	미안하다고 했잖아요.
+I'm dead serious.	난 절대 농담하는게 아냐.
+I'm disorganized.	나는 체계적이지 못하다.
+I'm not suicidal.	나는 자살하고 싶지 않다.
+Is that a spider?	이거 거미야?
+Is the bank open?	은행 문 열었어요?
+Is the bank open?	은행 해요?
+It could be true.	진짜일 수도 있어.
+It was a mistake.	그건 실수였어.
+It's a full moon.	보름달이야.
+It's nearly dark.	거의 어두워지고 있어.
+It's really loud.	정말 시끄럽네.
+Listen carefully.	주의깊게 들어.
+Look at the moon.	달을 봐.
+Nothing happened.	아무일도 없었어.
+Somebody laughed.	누군가 웃었어.
+Someone has died.	누군가 죽었어.
+Someone screamed.	누군가 비명을 질렀어.
+Stop apologizing.	그만 사과해.
+Stop complaining.	그만 불평해.
+That is a pencil.	그거 연필이야
+That's very kind.	참 친절하구나.
+There aren't any.	없다.
+They disappeared.	그들은 사라졌어.
+They disappeared.	그 사람들은 사라졌어.
+They're amateurs.	걔네 초짜야.
+Think about this.	생각 좀 해봐.
+This is a flower.	이건 꽃이야.
+This seat's free.	이 자리 비었어
+Tom is a manager.	톰은 관리자야.
+Tom is a nominee.	톰은 후보야.
+Tom is an orphan.	톰은 고아야.
+Tom is fantastic.	톰은 환상적이야.
+Tom is fast, too.	톰도 빨라.
+Tom is real busy.	톰은 진짜 바빠.
+Tom isn't a liar.	톰은 거짓말쟁이가 아니야.
+Tom isn't skinny.	톰은 마르지 않았다.
+Watch me closely.	나를 가까이서 봐.
+Water the plants.	식물에 물을 주세요.
+We can't give up.	우린 포기할 수 없어.
+We can't give up.	포기할 수 없어요.
+What do you like?	무엇을 좋아하세요?
+What do you like?	뭘 좋아해?
+What do you like?	뭐가 좋아?
+Where is the cat?	고양이는 어딨어?
+You made Tom cry.	네가 톰을 울렸어.
+You'll regret it.	너 후회할거야.
+You're shivering.	너 떨고 있네.
+Your plan failed.	네 계획은 실패했어.
+Admission is free.	입장은 무료야.
+Can you handle it?	잘 해낼 수 있니?
+Champagne, please.	샴폐인 좀.
+Champagne, please.	샴폐인 부탁해.
+Champagne, please.	샴폐인 주세요.
+Come and see this.	와서 이것좀 봐.
+Do you have proof?	증거 있어?
+Do you work alone?	혼자서 일해?
+Does Tom like you?	톰은 너 좋아해?
+Don't be so silly.	실없게 굴지마.
+Don't even try it.	시도조차 하지마.
+Everybody laughed.	전부 웃었어.
+Everyone screamed.	모두 비명을 질렀어.
+Everyone survived.	모두 살아남았어.
+Everyone survived.	모두가 살아남았어.
+Everyone survived.	모두들 살아남았어.
+Exercise outdoors.	밖에서 운동해.
+God bless you all.	신의 가호가 있길.
+Goodnight, Mother.	엄마 잘자.
+He died yesterday.	그는 어제 죽었어
+Her nails are red.	그 사람의 손톱은 빨간색이야.
+I believe in love.	난 사랑을 믿는다.
+I can go tomorrow.	난 내일 갈 수 있어.
+I doubted my eyes.	난 내 눈을 의심했어.
+I feel really sad.	나 정말 슬퍼.
+I got up at seven.	난 일곱 시에 일어났어.
+I have a headache.	머리가 아파요.
+I heard Tom laugh.	난 톰이 웃는 걸 들었어.
+I heard Tom shout.	난 톰이 소리지르는 걸 들었어.
+I kicked Tom hard.	내가 톰을 세게 걷어찼어.
+I like watermelon.	난 수박 좋아해.
+I met Tom outside.	난 톰을 밖에서 봤어.
+I saw Tom waiting.	톰이 기다리는 걸 봤어.
+I saw Tom working.	난 톰이 일하는 걸 봤어.
+I sent Tom a text.	난 톰한테 문자 보냈어.
+I shook Tom awake.	난 톰을 흔들어 깨웠어.
+I stole Tom's car.	내가 톰의 자동차를 훔쳤어.
+I taught Tom golf.	난 톰한테 골프를 가르쳤어.
+I texted Tom back.	난 톰한테 답장했어.
+I told Tom to lie.	난 톰한테 거짓말 하라고 말했어.
+I used Tom's idea.	톰의 아이디어를 썼어.
+I used to be poor.	난 가난했었어.
+I was intoxicated.	술 취했었다.
+I watched Tom eat.	톰이 먹는 걸 지켜봤어.
+I watched a movie.	나는 영화를 봤어.
+I won't permit it.	나는 그것을 허락하지 않을거야.
+I'd be devastated.	난 피폐해질 거야.
+I'll go by subway.	지하철로 갈게.
+I'm a human being.	난 인간이야.
+I'm seeing a trend here.	나는 여기서 유행(경향)을 본다.
+I'm sorry I doubted you.	의심해서 미안.
+I'm too busy to see Tom.	나는 너무 바빠서 톰을 못 봐.
+I'm waiting for a reply.	나는 답장을 기다리고 있다.
+Is this your dictionary?	이것은 당신의 사전입니까?
+It's just not that easy.	그것이 그렇게 쉽지는 않아.
+Kick as hard as you can.	최대한 세게 차.
+Kick as hard as you can.	최대한 세게 차세요.
+Let's get a group photo.	단체 사진을 찍읍시다.
+Let's go somewhere warm.	따뜻한 곳에 가자.
+Let's hope Tom is smart.	톰이 똑똑하길 빌자.
+May I ask you something?	제가 당신께 무엇인가 질문해도 될까요?
+My boss thinks he's God.	내 상사는 자기가 신인 줄 알아.
+My husband is a teacher.	우리 남편은 선생님이야.
+Never press this button.	절대 이 버튼을 누르지 마.
+One plus one equals two.	1 더하기 1은 2야.
+Our wedding is tomorrow.	우리의 결혼식은 내일이다.
+She came home very late.	그 사람은 집에 아주 늦게 왔어.
+She wants to keep a cat.	그 사람은 고양이를 키우고 싶어해.
+Something was happening.	뭔가가 일어나고 있어.
+Something was happening.	무언가가 일어나고 있어.
+Something was happening.	뭔가가 일어나는 중이야.
+Sometimes I hate myself.	가끔 내 자신이 싫어.
+Stay a while and listen.	가만히 좀 들어.
+Tell me what's going on.	무슨 일인지 얘기해봐.
+Tell me what's going on.	무슨 일인지 얘기해 주세요.
+That's a real good sign.	이건 정말로 좋은 신호야.
+That's my favorite song.	이게 바로 내가 가장 좋아하는 노래야.
+The dog stopped barking.	개가 짖는 걸 멈췄어.
+The keys were in my bag.	열쇠는 내 가방에 있었다.
+The signal turned green.	신호는 초록색으로 바뀌었어.
+The sun melted the snow.	헷빛이 눈을 녹였어.
+There are children here.	여기에 아이들이 있어.
+Think whatever you want.	마음대로 생각해.
+This dictionary is mine.	이 사전은 내 것이다.
+This is a dangerous job.	이건 위험한 일이야.
+Tom certainly thinks so.	톰은 틀림없이 그렇게 생각해.
+Tom didn't get up early.	톰은 일찍 일어나지 않았어.
+Tom died in his kitchen.	톰은 자택 부엌에서 죽었어.
+Tom dyed his hair green.	톰은 머리를 초록색으로 염색했어.
+Tom fell into the water.	톰은 물에 빠졌어.
+Tom has three computers.	톰은 컴퓨터를 세 대 가지고 있어.
+Tom has to learn French.	톰은 프랑스어를 배워야 해.
+Tom is a lovable person.	톰은 사랑스러운 사람이야.
+Tom is in the same boat.	톰은 같은 처지다.
+Tom is tall for his age.	톰은 나이에 비해 키가 커.
+Tom isn't a drug addict.	톰은 마약 중독자가 아냐.
+Tom lacks social skills.	톰은 사회성이 부족해.
+Tom looks pretty sleepy.	톰은 상당히 졸려 보인다.
+Tom plays the saxophone.	톰은 색소폰을 연주할 수 있어.
+Tom said I looked tired.	톰이 내가 피곤해보인다고 말했어
+Tom said that he was OK.	톰은 괜찮대.
+Tom sat in the darkness.	톰은 어둠 속에 앉아 있었어.
+Tom seemed to be lonely.	톰은 외로워 보였어.
+Tom sleeps all the time.	톰은 맨날 잠만 자.
+Tom taught French to us.	톰은 우리한테 프랑스어를 가르쳤어.
+Tom understands physics.	톰은 물리를 이해해.
+Tom was totally into it.	탐은 그 것에 푹 빠져 있었다.
+Tom will never catch me.	톰은 날 절대 따라잡을 수 없겠지.
+Tom works in a bank now.	톰은 현재 은행에서 일해.
+We have a party tonight.	우리 오늘 밤에 파티가 있어.
+We'll take care of that.	우리가 그것을 맡겠다. (처리하겠다.)
+What do you want to eat?	뭐 먹고 싶어?
+What does it consist of?	뭘로 구성되어 있어?
+What we need is a break.	우리한테 필요한 건 휴식이야.
+What's the horse's name?	그 말의 이름이 뭐야?
+Where do you want to go?	너 어디 가고 싶니?
+Yes, that's what I mean.	그래, 그게 내가 말하려던 것이었어.
+You need to be prepared.	넌 준비해야 돼.
+You seemed to be lonely.	네가 외로워 보였어.
+You should stop singing.	너 노래 그만 불러야할 것 같아.
+You should study French.	넌 프랑스어를 공부해야 할 것 같아.
+You would never do that.	넌 절대 그걸 안 할 걸.
+You're still a beginner.	너는 아직도 초보야.
+You're very competitive.	넌 아주 경쟁적이네.
+A square has four angles.	사각형은 각이 4개다.
+Always cite your sources.	항상 네 자료를 인용하도록 해.
+Can you help me a little?	조금 도와주실 수 있습니까?
+Did you make it yourself?	직접 만드신 거예요?
+Do as I say, not as I do.	내가 말하는 대로 해, 내가 하는 대로 말고.
+Do you have a cell phone?	핸드폰 갖고 있어?
+Do you know why I'm here?	내가 왜 여기있는지 알아?
+Do you understand or not?	이해한거야 안한거야?
+Do you want me to answer?	내가 대답하길 원해?
+Don't treat me like that.	나를 그렇게 대하지 마.
+Everyone loves a freebie.	모두가 공짜를 좋아한다.
+Greece is an old country.	그리스는 오래된 나라이다.
+Have you ever been drunk?	취해본 적 있어?
+Have you ever been fired?	너 해고당한 적 있어?
+He looks old for his age.	톰은 나이에 비해 늙어 보여.
+He quit school last week.	그는 지난주에 학교를 그만뒀어.
+How badly was Tom beaten?	톰이 얼마나 심하게 맞았니?
+How's the business going?	사업 어떻게 되어 가?
+I can't get over my cold.	감기가 안나아.
+I can't live without you.	너 없인 못 살아.
+I didn't take my hat off.	나는 모자를 벗지 않았어.
+I don't like Tom anymore.	나는 톰을 더 이상 안 좋아해.
+I don't use social media.	나는 소셜 미디어는 안 써.
+I feel like a little kid.	꼬마가 된 기분이야.
+I felt sad for no reason.	나는 이유 없이 슬펐어.
+I go to school by subway.	난 지하철로 학교에 가.
+I got injured doing that.	제가 그러다가 다쳤었어요.
+I have never felt better.	이보다 더 좋았던 적이 없다.
+I have to say I envy you.	네가 부럽다고 말해야할 것 같아.
+I just need to stay calm.	나는 단지 차분해질 필요가 있어.
+I know Tom is a lazy kid.	난 톰이 게으른 애라는 걸 알고 있어.
+I know you'll forgive me.	날 용서해주리라고 알고 있어.
+I met Tom in the library.	난 톰을 도서관에서 만났어.
+I saw him reading a book.	나는 그 사람이 책을 읽는 걸 봤어.
+I think I understand now.	나 이제 이해한 것 같아.
+I tried to act impressed.	나는 감동한 것처럼 보이려고 노력했어.
+I want Tom put in prison.	나는 탐을 감옥에 넣고 싶어
+I want to learn to drive.	운전하는 법을 배우고 싶어.
+I was trying to help you.	난 널 도와주려고 노력하던 중이었어.
+I will never forgive you.	난 널 절대로 용서하지 않을 거야.
+I'm aware this is Monday.	지금 월요일이라는 것을 자각하고 있어.
+I'm getting really tired.	나는 정말 피곤해지고 있다.
+I'm not a morning person.	난 아침형 인간이 아니야.
+I'm not going to give up.	나는 포기하지 않을 것이다.
+I'm not ready to die yet.	난 아직 죽을 준비가 안됐어.
+I'm trying to act casual.	자연스럽게 행동하려고 노력하고 있어.
+I'm trying to do my best.	난 최선을 다하려고 노력하는 중이야.
+I'm very happy in Boston.	난 보스턴 생활이 너무 좋아.
+I've gained weight again.	또 살이 쪄버렸어.
+I've had a very busy day.	아주 바쁜 나날을 보내던 참이었어.
+It looks like it'll rain.	비가 올 것 같아.
+It may take over an hour.	한 시간 넘게 걸릴 것 같아.
+It's a thing of the past.	이건 과거의 일이야.
+It's really hard to stop.	멈추는 건 너무 어려워.
+It's really hard to stop.	그만 두는 건 너무 어려워.
+May I have this magazine?	이 잡지 내가 가져도 돼?
+My father was a Canadian.	내 아빠는 캐나다인이었어.
+Oh my God, what'll we do?	맙소사, 이제 어떡해?
+Our baby cannot talk yet.	우리 아기는 아직 말을 못해.
+Please accept my apology.	제 사과를 받아 주세요.
+Please don't waste water.	물을 낭비하지 말아줘.
+Samsung is a big company.	삼성은 큰 회사입니다.
+Science is very exciting.	과학은 아주 흥미진진해.
+She carried out the plan.	그는 계획을 실행했다.
+She has to study science.	그 사람은 과학을 공부해야 해.
+Tell Tom that he's wrong.	톰에게 그가 틀렸다고 말해.
+Tell me I'm not dreaming.	내가 꿈을 꾸는 것이 아니라고 말해.
+That's my responsibility.	그것은 나의 책임이다.
+The boys have gone north.	그 소년들은 북쪽으로 갔다.
+The snow melts in spring.	눈은 봄에 녹아.
+The water is really cold.	물이 정말 차가워.
+They are eating just now.	그 사람들은 막 바로 먹고 있어.
+Think about what you did.	네가 한 것에 대해 생각해 봐.
+This dog is almost human.	이 강아지는 거의 사람같아.
+This isn't a French word.	이건 프랑스어 단어가 아니야.
+Tom and Mary are singers.	톰과 메리는 가수야.
+Tom asked for a discount.	톰은 할인을 요청했습니다.
+Tom asked for a discount.	톰은 값을 깎아달라고 했다.
+Tom couldn't concentrate.	톰은 집중할 수 없었어.
+Tom didn't move a muscle.	톰은 움직이지 않았다.
+Tom doesn't look so well.	탐은 그다지 좋아보이지 않는다.
+Tom gave it some thought.	탐은 이것에 대해 생각을 해봤다.
+Tom has no social skills.	톰은 눈치가 없어.
+Tom hurt Mary's feelings.	톰은 메리의 감정을 상하게 했다.
+Tom is a very bad person.	톰은 아주 나쁜 사람이야.
+Tom is as thin as a rail.	톰은 철로만큼 날씬해.
+Tom is as thin as a rail.	톰은 난간만큼 날씬해.
+Tom is listening to Mary.	톰은 메리의 말을 듣고 있어.
+Tom is passed out in bed.	톰은 침대에서 기절했다.
+Tom is short for his age.	톰은 나이에 비해 작아.
+Tom is still quite young.	톰은 아직도 꽤 어려.
+Tom is taking baby steps.	톰은 걸음마를 하고 있어.
+Tom isn't a good manager.	톰은 좋은 매니저가 아니야.
+Tom loves to study music.	톰은 음악 공부하는 걸 좋아해.
+Tom sat in the front row.	톰은 앞 줄에 앉았다.
+Tom sold his car to Mary.	톰은 그의 차를 메리에게 팔았다.
+Tom used Mary's computer.	톰은 메리의 컴퓨터를 썼어.
+Tom was a troubled child.	톰은 문제아였어.
+Tom, it isn't your fault.	톰아, 이건 네 잘못이 아니야.
+Two plus two equals four.	2 더하기 2는 4야.
+Wait for us in the lobby.	로비에서 기다려 주세요.
+We had to keep it secret.	우리는 그것을 비밀에 부쳐야 했다.
+We shouldn't've given up.	우린 포기하지 말았어야 했어.
+What color is Tom's hair?	톰 머리는 어떤 색깔이야?
+What did Tom say exactly?	톰이 정확히 뭐라고 말했어?
+Where can I learn French?	어디서 프랑스어를 배울 수 있어?
+Who's playing the violin?	누가 바이올린을 연주하고 있어?
+Whose dictionary is this?	이건 누구 사전입니까?
+Would you like some more?	더 먹을래?
+Yesterday was a good day.	어제는 좋은 날이었다.
+You can't erase the past.	과거를 지울 순 없어.
+You have to study French.	넌 프랑스어를 공부해야 돼.
+You need to study French.	넌 프랑스어를 공부할 필요가 있어.
+You should exercise more.	너 운동 좀 더 해야겠어.
+You still look depressed.	너 아직도 우울해 보여.
+You trust Tom, don't you?	넌 톰을 믿고 있지.
+All people are born equal.	모든 사람은 평등하게 태어났어.
+Are video games addictive?	비디오 게임은 중독성 있어?
+Are you calling me stupid?	너 날 멍청이라고 부르고 있어?
+Are you going to use this?	이걸 쓰실 겁니까?
+Both of them speak French.	둘 다 프랑스어를 할 줄 알아.
+Culture destroys language.	문화가 언어를 망친다.
+Did you learn it from him?	그 사람한테서 배웠어?
+Do you believe God exists?	너는 신이 존재한다고 믿니?
+Do you have a reservation?	예약하셨나요?
+Do you have your passport?	여권 있어?
+Do you have your passport?	여권 있습니까?
+Do you think Tom is lying?	너는 톰이 거짓말을 하고 있다고 생각하니?
+French bread is delicious.	프랑스 빵은 맛있어.
+French bread is delicious.	프랑스 빵은 맛있습니다.
+Have you eaten dinner yet?	아직 저녁을 안 드셨나요?
+Have you ever been lonely?	외로웠던 적이 있어?
+Have you ever been robbed?	한번이라도 도둑맞았던 적이 있어?
+He decided on the red car.	그 사람은 빨간 차로 결정했어.
+He tried to open the door.	그가 문을 열려고 하였다.
+How many eggs did you buy?	계란 얼마나 샀어?
+How much does a room cost?	방의 가격은 얼마야?
+How much does a room cost?	방은 얼마야?
+How safe are e-cigarettes?	전자담배는 얼마나 안전해?
+I am four months pregnant.	나는 임신 4개월이다.
+I can both sing and dance.	나는 노래도 부를 줄 알고 춤도 출 줄 알아.
+I can teach French to Tom.	난 톰한테 프랑스어를 가르칠 수 있어.
+I can't ask Tom right now.	난 지금 당장은 톰한테 물어볼 수 없어.
+I can't shake off my cold.	감기가 안나아.
+I didn't feel embarrassed.	창피함은 안 느꼈어.
+I don't have a cell phone.	나한텐 핸드폰이 없어.
+I don't like Tom and Mary.	난 톰과 메리를 좋아하지 않아.
+I don't want to be lonely.	외로워지고 싶지 않아.
+I haven't kissed Mary yet.	아직 메리랑 키스 못 해봤어.
+I keep dreaming about Tom.	난 계속 톰에 대한 꿈만 꾸고 있어.
+I know why Tom was crying.	난 톰이 왜 울었는지를 알고있어.
+I like learning languages.	난 언어를 배우는 것을 좋아해.
+I like learning languages.	난 언어를 배우는 걸 좋아해.
+I like studying languages.	언어를 공부하는 게 좋아요.
+I love learning languages.	언어 공부하는 것을 좋아합니다.
+I love meeting new people.	나는 새로운 사람들을 만나는 것을 좋아한다.
+I prefer spring to autumn.	나는 가을보다 봄이 좋아.
+I prefer spring to autumn.	가을보다 봄이 좋아요.
+I really should've called.	난 진짜 불렀어야 했는데.
+I should've come with you.	너랑 같이 갔어야 했는데.
+I shouldn't've eaten that.	난 그걸 먹지 말았어야 했어.
+I think that's inaccurate.	이건 부정확한 것 같아.
+I think this is important.	이건 중요한 것 같아.
+I think you both know Tom.	너희들 둘 다 톰을 아는 것 같은데.
+I think you should buy it.	넌 그걸 사야할 것 같아.
+I thought Tom was worried.	톰이 걱정하고 있는 줄 알았어.
+I thought you'd forgotten.	네가 잊어버린 줄 알았어.
+I took a walk with my dog.	내 개와 산책했어.
+I'm interested in science.	난 과학에 관심 있어.
+I'm learning how to drive.	난 운전하는 법을 배우고 있어.
+I'm not afraid of spiders.	난 거미 안 무서워.
+I'm still learning French.	난 아직도 프랑스어를 배우고 있어.
+I'm still learning French.	난 아직도 프랑스어 배우고 있어.
+I'm taking a French class.	나는 프랑스어 수업을 듣고 있어.
+I've got proof right here.	바로 여기서 증거를 잡았어.
+It was nothing but a joke.	농담일 뿐이야.
+It's dark in the basement.	지하실은 어두워.
+It's popular in Australia.	호주에서는 인기가 있어요.
+Let me help you with that.	제가 도와드릴게요.
+Let me help you with that.	내가 도와줄게.
+Many people act like that.	많은 사람들이 저런 식으로 행동해.
+May your dreams come true.	네 꿈이 실현되길.
+Most dogs have brown eyes.	개는 대부분 갈색 눈을 가지고 있어.
+My brother is a professor.	내 오빠는 교수야.
+My brother is a professor.	내 동생은 교수야.
+My brother is a professor.	내 형은 교수야.
+My children are in school.	우리 애들은 학교에 있어요.
+My daughter is only three.	내 딸은 3살일 뿐이야.
+One of my cats is missing.	내 고양이 중 한 마리가 안 보여.
+Procrastinating is an art.	미루는 것은 일종의 예술이다.
+Sugar is soluble in water.	설탕은 물에 잘 녹아.
+Thanks for your help, Tom.	도와줘서 고마워, 톰.
+Thanks for your help, Tom.	도와줘서 고마워요, 톰.
+The funeral was yesterday.	장례식은 어제였다.
+This book is of great use.	이 책은 정말 유용하네.
+This is a serious problem.	이건 중대한 문제야.
+This is just like a dream.	이건 마치 꿈만 같아.
+Tom coughed up some blood.	톰은 조금의 피를 토해냈다.
+Tom has braided his beard.	톰은 그의 턱수염을 땋았다.
+Tom is a pretty good poet.	톰은 꽤 괜찮은 시인이야.
+Tom is a pretty good poet.	톰은 좀 괜찮은 시인이야.
+Tom is addicted to heroin.	톰은 헤로인 중독자야.
+Tom is having a hard time.	톰은 힘든 시간을 보내고 있어.
+Tom is lonely and unhappy.	톰은 외롭고 불행해.
+Tom is reading a magazine.	톰은 잡지를 읽고 있어.
+Tom is shouting something.	톰은 뭔가를 쏘고 있어.
+Tom is sitting on his bed.	톰은 자기 침대에 누워 있어.
+Tom learns French as well.	톰도 마찬가지로 프랑스어 배워.
+Tom likes butter too much.	톰은 버터를 너무 좋아하네.
+Tom looks old for his age.	톰은 나이에 비해 늙어 보여.
+Tom shut his computer off.	톰은 자기 컴퓨터를 껐어.
+Tom speaks many languages.	톰은 많은 언어를 할 줄 알아.
+Tom taught me how to surf.	톰이 나한테 서핑하는 방법을 알려 줬어.
+Tom was afraid to be here.	톰이 여기에 있길 두려워 했어.
+Tom was afraid to be here.	톰이 여기에 있길 무서워 했어.
+Tom went to bed very late.	톰은 엄청 늦게 잤어.
+Tom went to school by car.	톰은 자동차로 학교에 갔어.
+Tom will have a hard time.	톰은 힘든 시간을 보내게 될 거야.
+Tom, you've grown so fast.	톰아, 너 너무 빨리 자랐네.
+We might need to help Tom.	우리가 톰을 도울 필요가 있을 수도 있다.
+We're running out of ammo.	탄약이 바닥나고 있어.
+We're university students.	우리는 대학생입니다.
+What in the world is this?	이게 대체 뭐야?
+What in the world is this?	이게 대체 뭐예요?
+What's your favorite food?	가장 좋아하는 음식이 뭐야?
+What's your favorite team?	가장 좋아하는 팀은 어떤 팀이야?
+When did it start snowing?	눈이 언제 내리기 시작했어?
+Where can we park the car?	우린 어디에 차를 주차할 수 있을까?
+Where do you want to live?	어디에서 살고싶어?
+Why are you still working?	너 왜 아직도 일하고 있어?
+Why are you still working?	왜 아직도 일하고 있어?
+Why are you still working?	왜 아직도 일하는 중이야?
+Would you stop doing that?	그것 좀 멈춰 줄래?
+You completely ignored me.	넌 날 완전히 무시했어.
+You ought to study French.	넌 프랑스어를 공부해야 돼.
+You will know soon enough.	곧 충분히 알게 될거야.
+You'd better not tell him.	그에게 말하지 않는게 좋을걸.
+You're lonely, aren't you?	너 외롭구나. 그치?
+You've deceived me before.	너는 날 속인 적이 있었지.
+Actinium melts at 1,051°C.	악티늄은 1,050°C일 때 녹아.
+Are we going somewhere now?	지금 어디 가는 길이세요?
+Are you able to play organ?	너 오르간 칠 수 있어?
+Can I come some other time?	나중에 한번 다시 와도 돼?
+Do I look desperate to you?	내가 절박해 보이냐?
+Do you want some breakfast?	아침 먹을래?
+Do you want to take a walk?	산책하고 싶어?
+Dreams sometimes come true.	꿈은 가끔 이루어져.
+Have you ever been engaged?	한번이라도 약혼한 적 있어?
+Have you ever been in jail?	너 감옥에 간 적 있어?
+Have you ever been in love?	너 한번이라도 사랑해본 적 있어?
+He invited me to the party.	그사람이 나를 파티에 초대했어.
+He made his will last year.	그는 작년에 유언장을 썼습니다.
+I bet Tom knows the answer.	톰은 정답을 알고있을걸?
+I can't decode the message.	메시지를 해독할 수 없어.
+I can't get rid of my cold.	감기가 안나아.
+I can't stand these people.	나는 저런 사람들을 참을 수 없어.
+I didn't ask for your help.	너한테 도와달라고 안했거든.
+I didn't know who you were.	네가 누군지 난 몰랐어.
+I do that almost every day.	나는 그것을 거의 매일 한다.
+I don't read French novels.	난 프랑스 소설은 읽지 않아.
+I don't think Tom is sorry.	톰이 미안해 하는 것 같지 않은데.
+I feel so lonely sometimes.	가끔 너무 외로움을 느껴.
+I must've lost some weight.	난 아마 살이 좀 빠졌어.
+I need a red ballpoint pen.	빨간색 볼펜이 필요해.
+I really love French books.	난 프랑스 책들을 정말 좋아해.
+I soon learned how to swim.	난 곧 수영하는 법을 알게 되었어.
+I think I'm a good surgeon.	나는 괜찮은 외과의사인 것 같아.
+I think Tom has lied to us.	톰이 우리한테 거짓말 한 것 같아.
+I tried to act standoffish.	난 도도한 척 하려고 노력했어.
+I try to act appropriately.	적절하게 처신하려고 노력하는 중이야.
+I understand what you mean.	네가 무슨 말 하려는 지는 알겠어.
+I used to be poor like you.	나는 너처럼 가난했었다.
+I want you to meet someone.	나는 네가 다른사람을 만났으면 해.
+I wanted to see Tom's room.	톰의 방을 보고 싶었어.
+I wanted to speak with Tom.	톰이랑 얘기하고 싶었어.
+I wanted to speak with Tom.	톰이랑 대화하고 싶었어.
+I was overseas at the time.	그때 나는 해외에 있었어
+I wish I hadn't kissed you.	너한테 키스하지 말았어야 했어.
+I wonder if she is married.	그여자 결혼햿는지 궁금한데.
+I'll pay whatever it costs.	얼마이든지간에 살게.
+I'm reading a French novel.	난 프랑스 소설을 읽고 있어.
+I'm sorry for interrupting.	끼어 들어서 죄송합니다.
+I'm sorry for interrupting.	방해해서 죄송합니다.
+I'm sorry to interrupt you.	방해해서 미안해.
+I've been doing this wrong.	난 계속 잘못하고 있었어.
+I've been dying to see Tom.	난 톰이 너무 보고 싶어 죽겠어.
+I've learned to trust them.	난 신뢰하는 법을 배웠어.
+Is there a pharmacy nearby?	이 근처에 약국 있어요?
+It is already nine o'clock.	벌써 아홉시다.
+It's no use talking to Tom.	톰한테 말거는 것은 쓸데없어.
+Learning French takes time.	프랑스어를 배우는 데에는 시간이 걸려.
+Leave the book where it is.	책을 제자리에 놔 두세요.
+Let's stay friends forever.	언제까지나 친구로 지내자.
+Mary died of breast cancer.	메리는 유방암으로 죽었어.
+Men like to look masculine.	남자들은 남성적으로 보이고 싶어한다.
+Merry Christmas, everybody!	모두들 메리 크리스마스!
+My calculation was correct.	내 계산은 정확했어.
+My cell phone doesn't work.	내 핸드폰은 동작하지 않아.
+Nobody is too old to learn.	배움에 나이는 없어.
+People are still suffering.	사람들은 아직도 고통받고 있어.
+Rabbits are social animals.	토끼는 사회적 동물이야.
+She looked around the room.	그 사람은 방 주위을 둘러 봤어.
+She says she likes flowers.	그녀는 꽃을 좋아한다고 말했다.
+Tell Tom I'll be home soon.	곧 집에 갈 거라고 톰한테 전해.
+Tell me where you're going.	어디가는지 말해줘.
+Thank you for your efforts.	수고했어.
+The baby was crying in bed.	아기가 침대에서 울고 있었어.
+The gift was still wrapped.	선물은 아직도 포장 상태야.
+The medicine tastes bitter.	그 약은 쓰다.
+The medicine tastes bitter.	그 약은 써요.
+The snow has begun to melt.	눈은 녹기 시작했어.
+There are no stars tonight.	오늘 밤엔 별이 안보이네.
+This bread looks delicious.	이 빵 맛있어 보이네.
+This code can't be cracked.	이 코드는 해킹될 수 없어.
+This house is not for sale.	이 집은 팔려고 내놓은 집 아니에요.
+This is a very useful tool.	이건 아주 유용한 도구야.
+Tom appears to be sleeping.	톰이 자고 있는 것처럼 보여.
+Tom barely passed the exam.	톰은 시험 간신히 붙었어.
+Tom doesn't know the rules.	톰은 규칙을 몰라.
+Tom finally found his keys.	톰이 드디어 자기 열쇠를 찾았다더라.
+Tom grew up in the suburbs.	Tom은 교외에서 자랐다.
+Tom has a dog named Cookie.	톰은 쿠키라는 강아지를 키우고 있어.
+Tom has low blood pressure.	톰은 저혈압이다.
+Tom has more money than me.	톰은 나보다 돈이 많아.
+Tom initialed the document.	탐은 그 문서에 서명했다.
+Tom is a very quiet person.	톰은 아주 조용한 사람이야.
+Tom is ashamed of his body.	톰은 자기 몸을 창피해해.
+Tom is ashamed of his body.	톰은 자기 몸을 창피해하고 있어.
+Tom is eating potato chips.	톰은 감자칩을 먹고 있어.
+Tom is having a tough time.	톰은 힘든 시간을 보내고 있어.
+Tom is in a very good mood.	톰은 기분이 굉장히 좋네.
+Tom is quite shy, isn't he?	톰은 좀 소심한 것 같지 않아?
+Tom is unbelievably naïve.	톰은 못 믿길 정도로 순진해.
+Tom is wearing a blue coat.	톰은 파란 코트를 입고 있어.
+Tom is wearing a blue coat.	톰은 파란색 코트를 입고 있어.
+Tom isn't tall for his age.	톰은 나이에 비해 키가 크지 않아.
+Tom nodded understandingly.	톰은 이해하고 있다는 듯이 고개를 끄덕였다.
+Tom often sings in his car.	톰은 자기 차 안에서 가끔 노래해.
+Tom painted his room white.	톰은 자기 방을 하얗게 칠했어.
+Tom pondered his next move.	톰은 다음 행동을 곰곰이 생각했어.
+Tom says that he's met you.	톰이 널 만난 적 있다고 말했어.
+Tom slammed down the phone.	톰은 전화기를 쾅 놓았다.
+Tom suffers from headaches.	톰은 두통에 시달리고 있어.
+Tom swims well for his age.	톰은 나이에 비해 수영을 잘해.
+Tom used to be a policeman.	톰은 한때 경찰이었었어.
+Tom was diagnosed with ASD.	톰은 자폐스펙트럼으로 진단받았어.
+Tom was very disrespectful.	톰은 매우 무례했다.
+Tom's attitude has changed.	톰의 태도가 변했어.
+Tom's birthday's coming up.	톰 생일이 다가오고 있어.
+Tom's condition is unknown.	톰은 의식 불명인 상태에 있어.
+War began five years later.	5년 후에 전쟁이 시작됐어.
+We need to review the case.	우리는 그 사건을 검토할 필요가 있다.
+We'll learn the truth soon.	우리는 곧 진실을 알게 될거야.
+We'll wait until it's dark.	우린 어두워질 때까지 기다릴게.
+We're all in the same boat.	우리는 모두 같은 배를 탔다.
+We're coming back tomorrow.	우리는 내일 돌아올거야.
+We've isolated the problem.	우리는 그 문제를 고립시켰어.
+We've wasted a lot of time.	우리는 허송세월을 보냈어.
+What are you writing about?	뭐에 대해 쓰고있어?
+What color is your new car?	너 새차 색깔이 뭐야?
+What's your Skype username?	네 스카이프 사용자 이름은 뭐야?
+When should I feed the dog?	언제 개한테 먹이를 줘야 해?
+Where will you go tomorrow?	내일 어디로 갈거야?
+Where's the subway station?	지하철은 어디에 있어?
+Who's going to sing for us?	누가 우리한테 노래해 줄거야?
+Who's your favorite singer?	좋아하는 가수가 누구야?
+Who's your favorite singer?	좋아하는 가수는 누구예요?
+Why is French so difficult?	어째서 프랑스어는 이렇게나 어려울까?
+Would you mind if I helped?	내가 도와도 괜찮겠니?
+You know it doesn't matter.	상관없는 거 알잖아.
+You, too, can learn French.	너도 마찬가지로 프랑스어를 배울 수 있어.
+At present, he is in Canada.	현재, 그 사람은 캐나다에 있어.
+Can I take your word for it?	내가 그것에 대한 너의 말을 믿어도 되겠니?
+Can the price be discounted?	가격을 깎을 수 있나요?
+Can you justify your action?	네 행동을 정당화할 수 있니?
+Did you know Tom was lonely?	톰이 외롭다는 걸 알고 있었어?
+Did you know Tom was lonely?	톰이 외롭다는 걸 알고 계시나요?
+Do you have to work tonight?	오늘 밤에 일해야 하니?
+Do you two want to be alone?	너희 둘은 혼자가 되고싶어?
+Do you want to look into it?	살펴보고 싶어?
+Everybody wants to be loved.	누구나 사랑 받고 싶어 해.
+Has the snow already melted?	눈이 이미 녹았어?
+Have you ever donated blood?	헌혈해 본 적이 있니?
+Have you ever dreamed of me?	내 꿈 꿔본 적 있어?
+Have you made your decision?	결정 했니?
+He can speak five languages.	그 사람은 다섯 개 국어를 할 줄 알아.
+He is suffering from a cold.	그 사람은 감기로 몸살을 앓고 있어.
+Her jokes made us all laugh.	그 사람의 농담은 우리 모두를 웃게 했었어.
+Humans originated in Africa.	인간은 아프리카에서 기원했다.
+I already know you did that.	네가 그것을 했다는 것을 이미 알고 있다.
+I can't describe my sadness.	나의 슬픔을 뭐라 표현할 수가 없네.
+I could barely open my eyes.	난 눈을 거의 뜰 수 없었어.
+I didn't know Tom was ready.	톰이 준비된 줄 몰랐어.
+I don't celebrate birthdays.	난 생일같은 건 축하하지 않아.
+I don't know about this one.	그건 잘 모르겠네.
+I eat meat almost every day.	나는 매일같이 고기를 먹고 있어.
+I have forgiven her already.	나는 그 사람을 이미 용서했어.
+I haven't finished this yet.	이거 아직도 못 끝냈어.
+I haven't heard from anyone.	아무에게도 들어본 적이 없어.
+I know what Tom needs to do.	나는 톰이 무엇을 할 필요가 있는지 알고 있다.
+I live in a small apartment.	나는 작은 아파트에 살아요.
+I live in a small apartment.	나는 작은 아파트에서 살아.
+I managed to crack the code.	난 코드를 간신히 해킹했어.
+I really feel sorry for Tom.	나는 톰한테 너무 미안해.
+I recognized Tom right away.	나는 톰을 즉각 알아챘어.
+I study French all the time.	나는 항상 프랑스어를 공부해.
+I suddenly got very worried.	난 갑자기 너무 걱정이 되었어.
+I think the mistake is mine.	이건 내탓인 것 같아.
+I think this is Tom's house.	이건 톰의 집인 것 같아.
+I think you should meet Tom.	너는 톰을 만나봐야 할 것 같아.
+I thought Tom looked lonely.	톰이 외로워 보이는 줄 알았어.
+I told Tom not to use those.	난 톰한테 그걸 쓰지 말라고 했는데.
+I took the subway yesterday.	어제 지하철을 탔어.
+I took the subway yesterday.	난 어제 지하철을 탔어.
+I tried to apologize to Tom.	톰에게 사과하려고 했어.
+I understand your situation.	네 상황을 이해해.
+I used to do that every day.	난 그걸 매일 했었어.
+I want you to work with Tom.	난 네가 톰이랑 같이 일했으면 좋겠어.
+I was miserable and unhappy.	나는 비참하고 불행했어.
+I wish I were an only child.	내가 외동이었으면 좋았을 텐데.
+I'd like to visit Australia.	나는 오스트레일리아에 가고 싶어.
+I'm going to shoot that guy.	난 그 인간을 쏠 거야.
+I'm in the same boat as you.	나도 너랑 같은 처지야.
+I'm not sure where to start.	어디서부터 시작할지 잘 모르겠어.
+I'm sorry I opened my mouth.	내가 입을 열어서 미안해.
+I'm sorry if I offended you.	기분 상하게 했다면 미안해.
+I'm sorry that I kissed Tom.	톰한테 키스해서 미안해.
+I'm sorry, I can't help you.	미안한데, 내가 도와줄 수가 없어.
+I heard that Tom attempted suicide.	톰이 자살을 시도했다고 들었어.
+I should've cooked the pork longer.	돼지고기를 더 구웠어야 했는데.
+I think Tom went fishing with Mary.	톰은 메리랑 낚시하러 갔었던 것 같아.
+I think that everything's fine now.	이제 별일은 없을 것 같아.
+I think that that's hard to answer.	이건 대답하기 어려울 것 같아.
+I think that we're still too young.	우린 아직 너무 어린 것 같아.
+I think your hypothesis is correct.	네 가설이 맞는 것 같아.
+I'd like to meet your older sister.	나 너네 언니 만나고 싶어
+I'll call you when I get to Boston.	보스턴에 도착하면 전화할게요.
+I'm glad that Tom is healthy again.	톰이 다시 건강해져서 다행이야.
+I'm going to get there before dark.	난 어두워지기 전에 거기 가 있으려고 해.
+I'm proud of Tom's accomplishments.	난 톰의 성과가 자랑스러워.
+I'm way stronger than I used to be.	나는 예전의 나보다 훨씬 강해.
+I've never actually seen a giraffe.	난 단 한번도 기린을 본 적이 없어.
+Is nicotine as addictive as heroin?	니코틴이 헤로인만큼 중독성 있어?
+Is there something you want to say?	뭔가 할 말이 있니?
+Is there something you want to say?	뭐 할 말이라도 있냐고.
+It's a ridiculous question, really.	참으로 어이없는 질문이네.
+It's a ridiculous question, really.	참으로 황당한 질문이네.
+Let's meet in front of the theater.	극장 앞에서 만납시다.
