@@ -32,6 +32,9 @@ def sungjuk_call():
 def sch():
     return render_template("sch.html")
 
+@app.route('/corona19')
+def corona19():
+   return render_template("corona1911.html")
 
 
 @app.route("/sungjukAct", methods=["GET","POST","PUT","DELETE"])
