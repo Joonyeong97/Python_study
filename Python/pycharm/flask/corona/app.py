@@ -9,7 +9,9 @@ def index():
 
 @app.route('/corona19')
 def corona19():
-   return render_template("index.html")
+   return render_template("corona19_0225.html")
+
+
 
 
 

@@ -46,12 +46,34 @@ def naver_corona():
     c = {result[0]: result2[0], result[1]: result2[1], result[2]: result2[2], result[3]: result2[3]}
 
     df_korea = pd.read_csv('korea_corona.csv')
-    df_korea = df_korea.append([{'date': time.strftime('%Y-%m-%d', time.localtime(time.time())), 'confirmed': c['확진환자']},], ignore_index=True)
+    date = time.strftime('%Y-%m-%d', time.localtime(time.time()))
+    date2 = time.strftime('%Y%m%d', time.localtime(time.time()))
+    daa = df_korea.iloc[-1, :-1]
+
+    for _, i in enumerate(daa):
+        if cleanText(i) == date2:
+            df_korea = df_korea.drop(df_korea.iloc[-1:, :].index, axis=0)
+            df_korea = df_korea.append(
+                [{'date': date, 'confirmed': c['확진환자']}, ],
+                ignore_index=True)
+        else:
+            df_korea = df_korea.append(
+                [{'date': date, 'confirmed': c['확진환자']}, ],
+                ignore_index=True)
+
+    # if enumerate(daa) == date:
+    #     df_korea = df_korea.drop(df_korea.iloc[-1:, :].index, axis=0)
+    #     df_korea = df_korea.append(
+    #         [{'date': time.strftime('%Y-%m-%d', time.localtime(time.time())), 'confirmed': c['확진환자']}, ],
+    #         ignore_index=True)
+    # else:
+    #     df_korea = df_korea.append(
+    #         [{'date': time.strftime('%Y-%m-%d', time.localtime(time.time())), 'confirmed': c['확진환자']}, ],
+    #         ignore_index=True)
+
     df_korea.to_csv('korea_corona.csv', sep=',', header=True, index=False)
     return
-
 # print('수집완료')
-
 
 
 
