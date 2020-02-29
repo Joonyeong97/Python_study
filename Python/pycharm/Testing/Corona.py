@@ -47,10 +47,16 @@ def corona_prdict():
     future = m.make_future_dataframe(periods=7) # 7일만 예상하겠다.
     forecast = m.predict(future)
 
-    fig = m.plot(forecast)
+    import matplotlib.font_manager as fm
+
+    path = 'C:/Windows/Fonts/malgun.ttf'
+    font_name = fm.FontProperties(fname=path, size=50).get_name()
+    plt.rc('font', family=font_name)
+
+    fig = m.plot(forecast,figsize=(6,4), xlabel='날 짜', ylabel='감염자수(예상)')
     a = add_changepoints_to_plot(fig.gca(), m, forecast)
-    fig2 = plot_plotly(m, forecast, xlabel='날 짜', ylabel='감염자수(예상)')
+#    fig2 = plot_plotly(m, forecast, xlabel='날 짜', ylabel='감염자수(예상)')
     # py.iplot(fig2, filename='corona19.html')
     date = time.strftime('%Y%m%d', time.localtime(time.time()))
-    plotly.offline.plot(fig2, filename='corona_predict/corona19_{}.html'.format(date))
+#    plotly.offline.plot(fig2, filename='corona_predict/corona19_{}.html'.format(date))
     plt.show()

@@ -15,5 +15,7 @@ if __name__ == '__main__':
         Corona_naver.naver_corona()
         time.sleep(1)
         Corona.corona_prdict()
+    elif start == 'n':
+        Corona.corona_prdict()
     else:
         pass

@@ -14,6 +14,8 @@ def cleanText(readData):
 
 
 def naver_corona():
+    date = time.strftime('%Y-%m-%d', time.localtime(time.time()))
+    date2 = time.strftime('%Y%m%d', time.localtime(time.time()))
     # 코로나 바이러스
     keyword = "코로나"
 
@@ -46,16 +48,22 @@ def naver_corona():
     c = {result[0]: result2[0], result[1]: result2[1], result[2]: result2[2], result[3]: result2[3]}
 
     df_korea = pd.read_csv('korea_corona.csv')
-    date = time.strftime('%Y-%m-%d', time.localtime(time.time()))
-    date2 = time.strftime('%Y%m%d', time.localtime(time.time()))
+    database = pd.read_csv('corona_total1.csv')
+
     daa = df_korea.iloc[-1, :-1]
 
     for _, i in enumerate(daa):
         if cleanText(i) == date2:
             df_korea = df_korea.drop(df_korea.iloc[-1:, :].index, axis=0)
+            database = database.drop(database.iloc[-1:].index, axis=0)
             df_korea = df_korea.append(
                 [{'date': date, 'confirmed': c['확진환자']}, ],
                 ignore_index=True)
+            result.insert(0, '날짜')
+            result2.insert(0, date2)
+            dt3 = pd.DataFrame(result2).T
+            dt3.columns = result
+            database = database.append(dt3)
         else:
             df_korea = df_korea.append(
                 [{'date': date, 'confirmed': c['확진환자']}, ],
@@ -70,7 +78,7 @@ def naver_corona():
     #     df_korea = df_korea.append(
     #         [{'date': time.strftime('%Y-%m-%d', time.localtime(time.time())), 'confirmed': c['확진환자']}, ],
     #         ignore_index=True)
-
+    database.to_csv('corona_total1.csv', sep=',', header=True, index=False)
     df_korea.to_csv('korea_corona.csv', sep=',', header=True, index=False)
     return
 # print('수집완료')
