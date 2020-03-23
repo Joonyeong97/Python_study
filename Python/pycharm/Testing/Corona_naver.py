@@ -68,6 +68,11 @@ def naver_corona():
             df_korea = df_korea.append(
                 [{'date': date, 'confirmed': c['확진환자']}, ],
                 ignore_index=True)
+            result.insert(0, '날짜')
+            result2.insert(0, date2)
+            dt3 = pd.DataFrame(result2).T
+            dt3.columns = result
+            database = database.append(dt3)
 
     # if enumerate(daa) == date:
     #     df_korea = df_korea.drop(df_korea.iloc[-1:, :].index, axis=0)

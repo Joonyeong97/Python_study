@@ -19,8 +19,8 @@ def corona_prdict():
     })
 
 
-    # a = np.arange(0.5, 1.01, 0.1)
-    # b = np.arange(0.1, 0.6, 0.1)
+    # a = np.arange(0.8, 1.01, 0.1)
+    # b = np.arange(0.1, 0.3, 0.1)
     #
     # params_grid = {'changepoint_range': a,
     #                'changepoint_prior_scale': b}
@@ -33,6 +33,7 @@ def corona_prdict():
     #                 seasonality_mode='additive')
     #     m.fit(df_prophet)
     # print('optimum parameter loaded !!')
+    
     m = Prophet(
         changepoint_prior_scale=0.2,  # 증가시 유연
         changepoint_range=0.90,  # 시계열의 첫 90%에 잠재적 변화점을 두다.

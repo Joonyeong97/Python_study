@@ -28,4 +28,4 @@ UPDATE authors SET NAME="대한민국" WHERE NAME = "대한이";
 DELETE FROM authors WHERE NAME="만세"
 
 # 3인분의 성적을 students 테이블에 입력하고 출력하시오
-# 이름 국어 영어 수학 총점 평균
+acornschool

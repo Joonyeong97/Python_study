@@ -1,7 +1,7 @@
 import json
 import pymysql
 def getConnection():
-    return  pymysql.connect(host='192.168.1.178',port=3306, user='root',
+    return  pymysql.connect(host='localhost',port=3306, user='root',
     password='root',use_unicode=True, db="acornschool", charset='utf8', autocommit=True)
 
 def getSungjuk():
