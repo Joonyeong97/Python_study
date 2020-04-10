@@ -60,4 +60,5 @@ def corona_prdict():
     # py.iplot(fig2, filename='corona19.html')
     date = time.strftime('%Y%m%d', time.localtime(time.time()))
 #    plotly.offline.plot(fig2, filename='corona_predict/corona19_{}.html'.format(date))
-    plt.show()
+#     plt.imshow(a)
+    plt.savefig("C:/Users/82105/Desktop/bigdata analysis/flask/static/img/blog/{}.png".format(date))
