@@ -1,3 +1,5 @@
+-- https://mariadb.com/resources/blog/sequences-support-in-mariadb-server-10-3/ 마리아디비시퀀스
+
 -- --------------------------------------------------------
 -- 호스트:                          127.0.0.1
 -- 서버 버전:                        10.4.11-MariaDB - mariadb.org binary distribution
@@ -26,7 +28,7 @@ CREATE TABLE IF NOT EXISTS `authors` (
 
 -- 테이블 데이터 jeju.authors:~2 rows (대략적) 내보내기
 /*!40000 ALTER TABLE `authors` DISABLE KEYS */;
-INSERT INTO `authors` (`name`, `address`, `열 2`, `열 3`) VALUES
+testINSERT INTO `authors` (`name`, `address`, `열 2`, `열 3`) VALUES
 	('대한민국', '서울시', NULL, NULL),
 	('민국이', '광주시', NULL, NULL);
 /*!40000 ALTER TABLE `authors` ENABLE KEYS */;
